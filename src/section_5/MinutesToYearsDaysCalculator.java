@@ -53,8 +53,8 @@ public class MinutesToYearsDaysCalculator {
         long calcMinutesToHours = minutes / 60;
 
         long calcHoursToDay = 0L;
-        long calcDaysToYear_1 = 0L;
-        long calcDaysToYear_2 = 0L;
+        long calcDaysToYear = 0L;
+        long remainingDays = 0L;
 
         if (minutes < 0) {
             System.out.println("Invalid Value");
@@ -63,17 +63,17 @@ public class MinutesToYearsDaysCalculator {
             calcHoursToDay = calcMinutesToHours / 24;
 
             // 일자를 년으로 변환
-            calcDaysToYear_1 = calcHoursToDay / 365;
+            calcDaysToYear = calcHoursToDay / 365;
 
             // 년으로 변환 후 남은 일자 반환
-            calcDaysToYear_2 = calcHoursToDay % 365;
+            remainingDays = calcHoursToDay % 365;
 
-            if (calcDaysToYear_1 > 0) {
+            if (calcDaysToYear > 0) {
                 //년으로 변환 가능할 경우 년으로 변환 후 남은 일자 반환
-                System.out.println(minutes + " min = " + calcDaysToYear_1 + " y and " + calcDaysToYear_2 + " d");
+                System.out.println(minutes + " min = " + calcDaysToYear + " y and " + remainingDays + " d");
             } else {
                 // 그렇지 않을 경우 분을 일자로 변경한 내용을 반환
-                System.out.println(minutes + " min = " + calcDaysToYear_1 + " y and " + calcHoursToDay + " d");
+                System.out.println(minutes + " min = " + calcDaysToYear + " y and " + calcHoursToDay + " d");
             }
         }
     }
