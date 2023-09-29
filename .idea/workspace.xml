@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_6/SwitchChallengeOldVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_6/SwitchChallengeNewVersion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,22 +53,9 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SwitchChallengeOldVersion">
+  <component name="RunManager" selected="Application.SwitchChallengeNewVersion">
     <configuration name="IntEqualityPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_5.IntEqualityPrinter" />
-      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodOverloadingChallenge_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_5.MethodOverloadingChallenge_2" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -106,6 +93,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwitchChallengeNewVersion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6.SwitchChallengeNewVersion" />
+      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SwitchChallengeOldVersion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_6.SwitchChallengeOldVersion" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwitchChallengeNewVersion" />
         <item itemvalue="Application.SwitchChallengeOldVersion" />
         <item itemvalue="Application.Switch" />
         <item itemvalue="Application.IntEqualityPrinter" />
         <item itemvalue="Application.MinutesToYearsDaysCalculator" />
-        <item itemvalue="Application.MethodOverloadingChallenge_2" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +149,8 @@
       <workItem from="1695602360736" duration="7686000" />
       <workItem from="1695684906309" duration="6535000" />
       <workItem from="1695772354750" duration="8093000" />
-      <workItem from="1695870747833" duration="781000" />
+      <workItem from="1695870747833" duration="975000" />
+      <workItem from="1695951073100" duration="2144000" />
     </task>
     <servers />
   </component>
