@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_6/SwitchChallengeNewVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_6/NumberInWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_6/NumberOfDaysInMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_6/TheForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_6/TheForLoopSmallChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +56,13 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SwitchChallengeNewVersion">
-    <configuration name="IntEqualityPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_5.IntEqualityPrinter" />
+  <component name="RunManager" selected="Application.TheForLoopSmallChallenge">
+    <configuration name="NumberInWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6.NumberInWord" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_5.*" />
+          <option name="PATTERN" value="section_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,21 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinutesToYearsDaysCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_5.MinutesToYearsDaysCalculator" />
-      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_6.Switch" />
+    <configuration name="NumberOfDaysInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6.NumberOfDaysInMonth" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +96,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchChallengeOldVersion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_6.SwitchChallengeOldVersion" />
+    <configuration name="TheForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6.TheForLoop" />
+      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheForLoopSmallChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6.TheForLoopSmallChallenge" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TheForLoopSmallChallenge" />
+        <item itemvalue="Application.TheForLoop" />
+        <item itemvalue="Application.NumberOfDaysInMonth" />
+        <item itemvalue="Application.NumberInWord" />
         <item itemvalue="Application.SwitchChallengeNewVersion" />
-        <item itemvalue="Application.SwitchChallengeOldVersion" />
-        <item itemvalue="Application.Switch" />
-        <item itemvalue="Application.IntEqualityPrinter" />
-        <item itemvalue="Application.MinutesToYearsDaysCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +153,8 @@
       <workItem from="1695684906309" duration="6535000" />
       <workItem from="1695772354750" duration="8093000" />
       <workItem from="1695870747833" duration="975000" />
-      <workItem from="1695951073100" duration="2144000" />
+      <workItem from="1695951073100" duration="2344000" />
+      <workItem from="1696134012048" duration="6009000" />
     </task>
     <servers />
   </component>
