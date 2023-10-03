@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_6/ThePrimeNumberChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_6/Sum3And5Challenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,9 +53,9 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThePrimeNumberChallenge">
-    <configuration name="NumberInWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_6.NumberInWord" />
+  <component name="RunManager" selected="Application.Sum3And5Challenge">
+    <configuration name="NumberOfDaysInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6.NumberOfDaysInMonth" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfDaysInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_6.NumberOfDaysInMonth" />
+    <configuration name="Sum3And5Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6.Sum3And5Challenge" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sum3And5Challenge" />
         <item itemvalue="Application.ThePrimeNumberChallenge" />
         <item itemvalue="Application.TheForLoopSmallChallenge" />
         <item itemvalue="Application.TheForLoop" />
         <item itemvalue="Application.NumberOfDaysInMonth" />
-        <item itemvalue="Application.NumberInWord" />
       </list>
     </recent_temporary>
   </component>
@@ -152,11 +152,24 @@
       <workItem from="1695870747833" duration="975000" />
       <workItem from="1695951073100" duration="2344000" />
       <workItem from="1696134012048" duration="6332000" />
-      <workItem from="1696234025361" duration="1569000" />
+      <workItem from="1696234025361" duration="1747000" />
+      <workItem from="1696238932550" duration="44000" />
+      <workItem from="1696312452688" duration="1186000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/section_6/Sum3And5Challenge.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
