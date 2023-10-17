@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_6/DigitSumChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_6/DeclaringVariablesInASwitchStatementBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_6/LocalVariablesAndTheForStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_6/TheWhileStatementRecap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +55,7 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DigitSumChallenge">
+  <component name="RunManager" selected="Application.TheWhileStatementRecap">
     <configuration name="DigitSumChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_6.DigitSumChallenge" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -80,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThePrimeNumberChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_6.ThePrimeNumberChallenge" />
+    <configuration name="TheWhileStatementRecap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6.TheWhileStatementRecap" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TheWhileStatementRecap" />
         <item itemvalue="Application.DigitSumChallenge" />
         <item itemvalue="Application.WhileLoopChallenge" />
         <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.Sum3And5Challenge" />
-        <item itemvalue="Application.ThePrimeNumberChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +158,9 @@
       <workItem from="1696238932550" duration="44000" />
       <workItem from="1696312452688" duration="1581000" />
       <workItem from="1696379352516" duration="5924000" />
-      <workItem from="1696467511740" duration="3447000" />
+      <workItem from="1696467511740" duration="3610000" />
+      <workItem from="1696922298691" duration="1980000" />
+      <workItem from="1697352680239" duration="260000" />
     </task>
     <servers />
   </component>
