@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_6/DeclaringVariablesInASwitchStatementBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_6/LocalVariablesAndTheForStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_6/TheWhileStatementRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_6/EvenDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_6/FactorPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_6/FirstLastDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_6/GreatestCommonDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_6/LastDigitChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_6/NumberToWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_6/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_6/SharedDigit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_6/NumberPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_6/NumberPalindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +61,9 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TheWhileStatementRecap">
-    <configuration name="DigitSumChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_6.DigitSumChallenge" />
+  <component name="RunManager" selected="Application.PerfectNumber">
+    <configuration name="FactorPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6.FactorPrinter" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum3And5Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_6.Sum3And5Challenge" />
+    <configuration name="GreatestCommonDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6.GreatestCommonDivisor" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheWhileStatementRecap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_6.TheWhileStatementRecap" />
+    <configuration name="LastDigitChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6.LastDigitChecker" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_6.WhileLoop" />
+    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6.PerfectNumber" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoopChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_6.WhileLoopChallenge" />
+    <configuration name="SharedDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6.SharedDigit" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TheWhileStatementRecap" />
-        <item itemvalue="Application.DigitSumChallenge" />
-        <item itemvalue="Application.WhileLoopChallenge" />
-        <item itemvalue="Application.WhileLoop" />
-        <item itemvalue="Application.Sum3And5Challenge" />
+        <item itemvalue="Application.PerfectNumber" />
+        <item itemvalue="Application.GreatestCommonDivisor" />
+        <item itemvalue="Application.FactorPrinter" />
+        <item itemvalue="Application.LastDigitChecker" />
+        <item itemvalue="Application.SharedDigit" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +167,10 @@
       <workItem from="1696467511740" duration="3610000" />
       <workItem from="1696922298691" duration="1980000" />
       <workItem from="1697352680239" duration="260000" />
+      <workItem from="1697510662825" duration="4815000" />
+      <workItem from="1697585904288" duration="599000" />
+      <workItem from="1697597330857" duration="1249000" />
+      <workItem from="1697677640249" duration="7425000" />
     </task>
     <servers />
   </component>

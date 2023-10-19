@@ -50,20 +50,20 @@ public class NumberPalindrome {
 //
 //
 //                NOTE: The method isPalindrome needs to be defined as public static like we have been doing
+        boolean palindrome = isPalindrome(11212);
+        System.out.println(palindrome);
     }
 
     public static boolean isPalindrome(int number) {
-        boolean answer = true;
+        int originalNumber = number;
         int reverse = 0;
 
-        int lastDigit = number % 10;
-
-        if (number % 10 >= 0)
-        for (int i = 0; i < number; i++) {
-
+        while (number != 0) {
+            int lastDigit = number % 10;
+            reverse = reverse * 10 + lastDigit;
+            number /= 10;
         }
 
-
-        return answer;
+        return originalNumber == reverse;
     }
 }
