@@ -75,46 +75,114 @@ public class NumberToWords {
 //        NOTE: In total, you have to write 3 methods.
 //
 //                NOTE: Do not add a main method to the solution code.
+//        int digitCount = getDigitCount(5200);
+//        System.out.println(digitCount);
+
+//        int reverse = reverse(100);
+//        System.out.println(reverse);
+        numberToWords(0);
     }
 
     public static void numberToWords(int number) {
 
+        int digitCount = getDigitCount(number);
+        int reverseNumber = reverse(number);
+
         String theOutPut = "";
 
-        if (number < 0) {
+//        System.out.println("This is reverseNumber in numberToWords method = " + reverseNumber);
+
+        if (digitCount == -1) {
             theOutPut = "Invalid Value";
             System.out.println(theOutPut);
         } else {
-            while (true) {
-                int remainder = number % 10;
+//            System.out.println("It's else section");
+            for (int i = 0; i < digitCount; i++) {
+                int remainder = reverseNumber % 10;
 
                 switch (remainder) {
-                    case 0 -> theOutPut = "Zero";
-                    case 1 -> theOutPut = "One";
-                    case 2 -> theOutPut = "Two";
-                    case 3 -> theOutPut = "Three";
-                    case 4 -> theOutPut = "Four";
-                    case 5 -> theOutPut = "Five";
-                    case 6 -> theOutPut = "Six";
-                    case 7 -> theOutPut = "Seven";
-                    case 8 -> theOutPut = "Eight";
-                    case 9 -> theOutPut = "Nine";
+                    case 0:
+                        theOutPut = "Zero";
+                        break;
+                    case 1:
+                        theOutPut = "One";
+                        break;
+                    case 2:
+                        theOutPut = "Two";
+                        break;
+                    case 3:
+                        theOutPut = "Three";
+                        break;
+                    case 4:
+                        theOutPut = "Four";
+                        break;
+                    case 5:
+                        theOutPut = "Five";
+                        break;
+                    case 6:
+                        theOutPut = "Six";
+                        break;
+                    case 7:
+                        theOutPut = "Seven";
+                        break;
+                    case 8:
+                        theOutPut = "Eight";
+                        break;
+                    case 9:
+                        theOutPut = "Nine";
+                        break;
                 }
 
                 System.out.println(theOutPut);
 
-                number /= 10;
+                reverseNumber /= 10;
             }
         }
     }
 
-    public static void reverse(int number) {
-        int lastDigit = number % 10;
+    public static int reverse(int number) {
 
+        if (number == 0) {
+            return 0;
+        }
 
-        char[] chars = Character.toChars(lastDigit);
+        int temp = Math.abs(number);
+        StringBuilder reversed = new StringBuilder();
 
-//        String s = Character.toString(chars)
-//        미완
+        while (temp != 0) {
+            int lastDigit = temp % 10;
+            char lastDigitChar = (char) (lastDigit + '0');
+            reversed.append(lastDigitChar);
+            temp /= 10;
+        }
+
+        String result = reversed.toString();
+        int reversedNumber = Integer.parseInt(result);
+//        System.out.println("This is reverse method's output = " + reversedNumber);
+
+        if (number < 0) {
+//            System.out.println("This is reverse method's output when the number is negative = " + number);
+            reversedNumber *= -1;
+        }
+
+        return reversedNumber;
+    }
+
+    public static int getDigitCount(int number) {
+        int countDigit = 0;
+
+        if (number < 0) {
+            return -1;
+        } else {
+            while (true) {
+                number /= 10;
+                countDigit++;
+                if (number == 0) {
+                    break;
+                }
+            }
+//            System.out.println("This is getDigitCount method's output = " + countDigit);
+            return countDigit;
+        }
     }
 }

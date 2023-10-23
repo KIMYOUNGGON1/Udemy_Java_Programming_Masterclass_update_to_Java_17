@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_6/EvenDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_6/FactorPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_6/FirstLastDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_6/GreatestCommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_6/LastDigitChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_6/NumberToWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_6/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_6/SharedDigit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_6/NumberPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_6/NumberPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_6/NumberToWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_6/NumberToWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +53,7 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PerfectNumber">
+  <component name="RunManager" selected="Application.NumberToWords">
     <configuration name="FactorPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_6.FactorPrinter" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -101,6 +93,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumberToWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_6.NumberToWords" />
+      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_6.PerfectNumber" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -114,26 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SharedDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_6.SharedDigit" />
-      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section_6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberToWords" />
         <item itemvalue="Application.PerfectNumber" />
         <item itemvalue="Application.GreatestCommonDivisor" />
         <item itemvalue="Application.FactorPrinter" />
         <item itemvalue="Application.LastDigitChecker" />
-        <item itemvalue="Application.SharedDigit" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +162,9 @@
       <workItem from="1697510662825" duration="4815000" />
       <workItem from="1697585904288" duration="599000" />
       <workItem from="1697597330857" duration="1249000" />
-      <workItem from="1697677640249" duration="7425000" />
+      <workItem from="1697677640249" duration="8317000" />
+      <workItem from="1697768730303" duration="998000" />
+      <workItem from="1698020628423" duration="3426000" />
     </task>
     <servers />
   </component>
