@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_7/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_7/ClassesChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_7/LectureBankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_7/LectureClassesChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_7/UseCarClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/SimpleCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_7/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_7/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +54,7 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LectureClassesChallenge">
+  <component name="RunManager" selected="Application.Person">
     <configuration name="ClassesChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_7.ClassesChallenge" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -72,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComplexNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_7.ComplexNumber" />
+    <configuration name="LectureClassesChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_7.LectureClassesChallenge" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -85,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Floor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_6.Floor" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_7.Person" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_6.*" />
+          <option name="PATTERN" value="section_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LectureClassesChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_7.LectureClassesChallenge" />
+    <configuration name="SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_7.SimpleCalculator" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.SimpleCalculator" />
         <item itemvalue="Application.LectureClassesChallenge" />
         <item itemvalue="Application.ClassesChallenge" />
         <item itemvalue="Application.UseCarClass" />
-        <item itemvalue="Application.ComplexNumber" />
-        <item itemvalue="Application.Floor" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +170,8 @@
       <workItem from="1698194988973" duration="5526000" />
       <workItem from="1698278036325" duration="3106000" />
       <workItem from="1698389269404" duration="10202000" />
-      <workItem from="1698468068149" duration="4809000" />
+      <workItem from="1698468068149" duration="5179000" />
+      <workItem from="1698552612193" duration="903000" />
     </task>
     <servers />
   </component>
