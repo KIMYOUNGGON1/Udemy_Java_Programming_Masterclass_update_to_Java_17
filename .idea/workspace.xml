@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_7/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_7/CustomerClassCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/LectureCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/LectureCustomerCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/StudentClassCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_7/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_7/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_7/ClassesChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_7/ClassesChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_7/LectureBankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_7/LectureBankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_7/LectureClassesChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_7/LectureClassesChallenge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,7 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CustomerClassCheck">
+  <component name="RunManager" selected="Application.LectureCustomerCheck">
     <configuration name="ClassesChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_7.ClassesChallenge" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -98,6 +96,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LectureCustomerCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_7.LectureCustomerCheck" />
+      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_7.Person" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -111,26 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_7.SimpleCalculator" />
-      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section_7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LectureCustomerCheck" />
         <item itemvalue="Application.CustomerClassCheck" />
         <item itemvalue="Application.LectureClassesChallenge" />
         <item itemvalue="Application.ClassesChallenge" />
         <item itemvalue="Application.Person" />
-        <item itemvalue="Application.SimpleCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +174,8 @@
       <workItem from="1698389269404" duration="10202000" />
       <workItem from="1698468068149" duration="5179000" />
       <workItem from="1698552612193" duration="1139000" />
-      <workItem from="1698632069410" duration="2313000" />
+      <workItem from="1698632069410" duration="2415000" />
+      <workItem from="1698718518330" duration="2217000" />
     </task>
     <servers />
   </component>
