@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_7/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_7/Carpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_7/ComplexNumberChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_7/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_7/LPAStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_7/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_7/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/Inheritance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_7/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_7/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_7/StudentClassCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_7/StudentClassCheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +56,7 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ComplexNumberChallenge">
+  <component name="RunManager" selected="Application.Inheritance">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_7.Calculator" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -89,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_7.Point" />
+    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_7.Inheritance" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentClassCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_7.StudentClassCheck" />
+    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_7.Point" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inheritance" />
         <item itemvalue="Application.ComplexNumberChallenge" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Point" />
         <item itemvalue="Application.Wall" />
-        <item itemvalue="Application.StudentClassCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +175,7 @@
       <workItem from="1698468068149" duration="5179000" />
       <workItem from="1698552612193" duration="1139000" />
       <workItem from="1698632069410" duration="2415000" />
-      <workItem from="1698718518330" duration="7456000" />
+      <workItem from="1698718518330" duration="9154000" />
     </task>
     <servers />
   </component>
