@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_7/LectureCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_7/LectureCustomerCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_7/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_7/StudentClassCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/Carpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/ComplexNumberChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/LPAStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/Wall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_7/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_7/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_7/StudentClassCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_7/StudentClassCheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -56,9 +62,9 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LectureCustomerCheck">
-    <configuration name="ClassesChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_7.ClassesChallenge" />
+  <component name="RunManager" selected="Application.ComplexNumberChallenge">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_7.Calculator" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomerClassCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_7.CustomerClassCheck" />
+    <configuration name="ComplexNumberChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_7.ComplexNumberChallenge" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LectureClassesChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_7.LectureClassesChallenge" />
+    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_7.Point" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LectureCustomerCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_7.LectureCustomerCheck" />
+    <configuration name="StudentClassCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_7.StudentClassCheck" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_7.Person" />
+    <configuration name="Wall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_7.Wall" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LectureCustomerCheck" />
-        <item itemvalue="Application.CustomerClassCheck" />
-        <item itemvalue="Application.LectureClassesChallenge" />
-        <item itemvalue="Application.ClassesChallenge" />
-        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.ComplexNumberChallenge" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.Point" />
+        <item itemvalue="Application.Wall" />
+        <item itemvalue="Application.StudentClassCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +181,7 @@
       <workItem from="1698468068149" duration="5179000" />
       <workItem from="1698552612193" duration="1139000" />
       <workItem from="1698632069410" duration="2415000" />
-      <workItem from="1698718518330" duration="2217000" />
+      <workItem from="1698718518330" duration="7131000" />
     </task>
     <servers />
   </component>
