@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_7/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_7/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_7/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/TheObjectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_7/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_7/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_7/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_7/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_7/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_7/Inheritance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +59,7 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Inheritance">
+  <component name="RunManager" selected="Application.TheObjectClass">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_7.Calculator" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -96,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_7.Point" />
+    <configuration name="TheObjectClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_7.TheObjectClass" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_7.Wall" />
+    <configuration name="TheObjectClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_7.TheObjectClass" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TheObjectClass" />
+        <item itemvalue="Application.TheObjectClass (1)" />
         <item itemvalue="Application.Inheritance" />
         <item itemvalue="Application.ComplexNumberChallenge" />
         <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Point" />
-        <item itemvalue="Application.Wall" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +178,8 @@
       <workItem from="1698468068149" duration="5179000" />
       <workItem from="1698552612193" duration="1139000" />
       <workItem from="1698632069410" duration="2415000" />
-      <workItem from="1698718518330" duration="9154000" />
+      <workItem from="1698718518330" duration="9485000" />
+      <workItem from="1698796899544" duration="4212000" />
     </task>
     <servers />
   </component>
