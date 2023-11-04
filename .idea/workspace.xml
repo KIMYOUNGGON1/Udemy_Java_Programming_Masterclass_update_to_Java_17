@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_7/AllAboutString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_7/StringFormatting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_7/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_7/StringOptions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +58,7 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringMethods">
+  <component name="RunManager" selected="Application.Rectangle">
     <configuration name="AllAboutString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_7.AllAboutString" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -70,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceChallengeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_7.InheritanceChallengeCheck" />
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_7.Circle" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_7.StringFormatting" />
+    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_7.Rectangle" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheObjectClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_7.TheObjectClass" />
+    <configuration name="StringOptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_7.StringOptions" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Rectangle" />
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.StringOptions" />
         <item itemvalue="Application.StringMethods" />
         <item itemvalue="Application.AllAboutString" />
-        <item itemvalue="Application.StringFormatting" />
-        <item itemvalue="Application.InheritanceChallengeCheck" />
-        <item itemvalue="Application.TheObjectClass" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +193,8 @@
       <workItem from="1698718518330" duration="9485000" />
       <workItem from="1698796899544" duration="5305000" />
       <workItem from="1698882888903" duration="4660000" />
-      <workItem from="1698977902614" duration="3518000" />
+      <workItem from="1698977902614" duration="4496000" />
+      <workItem from="1699068845438" duration="2584000" />
     </task>
     <servers />
   </component>
