@@ -15,15 +15,24 @@ public class PersonalComputer extends Product {
         this.motherBoard = motherBoard;
     }
 
-    public ComputerCase getComputerCase() {
-        return computerCase;
+    private void drawLogo() {
+        monitor.drawPixelAt(1200, 50, "yellow");
     }
 
-    public Monitor getMonitor() {
-        return monitor;
+    public void powerUp() {
+        computerCase.pressPowerButton();
+        drawLogo();
     }
 
-    public MotherBoard getMotherBoard() {
-        return motherBoard;
-    }
+//    public ComputerCase getComputerCase() {
+//        return computerCase;
+//    }
+//
+//    public Monitor getMonitor() {
+//        return monitor;
+//    }
+//
+//    public MotherBoard getMotherBoard() {
+//        return motherBoard;
+//    }
 }

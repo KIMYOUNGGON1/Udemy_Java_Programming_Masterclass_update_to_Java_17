@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sectoin_8/ComputerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sectoin_8/PersonalComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sectoin_8/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sectoin_8/Kitchen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sectoin_8/SmartKitchen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/ComputerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sectoin_8/ComputerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/PersonalComputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sectoin_8/PersonalComputer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +57,9 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Rectangle">
-    <configuration name="AllAboutString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_7.AllAboutString" />
+  <component name="RunManager" selected="Application.ComputerFactory">
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_7.Circle" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
@@ -70,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_7.Circle" />
+    <configuration name="ComputerFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sectoin_8.ComputerFactory" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_7.*" />
+          <option name="PATTERN" value="sectoin_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,26 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheObjectClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_7.TheObjectClass" />
-      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section_7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComputerFactory" />
         <item itemvalue="Application.Rectangle" />
         <item itemvalue="Application.Circle" />
         <item itemvalue="Application.StringOptions" />
         <item itemvalue="Application.StringMethods" />
-        <item itemvalue="Application.AllAboutString" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +181,8 @@
       <workItem from="1698882888903" duration="4660000" />
       <workItem from="1698977902614" duration="4496000" />
       <workItem from="1699068845438" duration="2922000" />
-      <workItem from="1699190193416" duration="922000" />
+      <workItem from="1699190193416" duration="1053000" />
+      <workItem from="1699247008887" duration="3188000" />
     </task>
     <servers />
   </component>
