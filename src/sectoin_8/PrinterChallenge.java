@@ -54,30 +54,64 @@ public class PrinterChallenge {
         this.duplex = duplex;
     }
 
+//    public int addToner(int tonerAmount) {
+//
+//        if (tonerAmount >= 0 && tonerAmount <= 100) {
+//            tonerLevel += tonerAmount;
+//        } else {
+//            return -1;
+//        }
+//
+//        if (tonerLevel > 100) {
+//            return -1;
+//        } else {
+//            return tonerLevel;
+//        }
+//    }
+
+//    public int addToner(int tonerAmount) {
+//        if (tonerAmount >= 0 && tonerAmount <= 100) {
+//            int newTonerLevel = tonerLevel + tonerAmount;
+//            if (newTonerLevel > 100) {
+//                return -1;
+//            }
+//            tonerLevel = newTonerLevel;
+//            return tonerLevel;
+//        }
+//        return -1;
+//    }
+
     public int addToner(int tonerAmount) {
-
         if (tonerAmount >= 0 && tonerAmount <= 100) {
-            tonerLevel += tonerAmount;
-        } else {
-            return -1;
-        }
-
-        if (tonerLevel > 100) {
-            return -1;
-        } else {
+            int newTonerLevel = tonerLevel + tonerAmount;
+            if (newTonerLevel > 100) {
+                return -1;
+            }
+            tonerLevel = newTonerLevel;
             return tonerLevel;
         }
+        return -1;
     }
+
+//    public int printPages(int pages) {
+//        int pagesToPrint = pages;
+//
+//        if (this.duplex) {
+//            this.pagesPrinted = (pagesToPrint / 2) + (pagesToPrint % 2);
+//            return this.pagesPrinted;
+//        } else {
+//            return this.pagesPrinted;
+//        }
+//    }
 
     public int printPages(int pages) {
         int pagesToPrint = pages;
-
         if (this.duplex) {
-            this.pagesPrinted = (pagesToPrint / 2) + (pagesToPrint % 2);
-            return this.pagesPrinted;
+            this.pagesPrinted = (pagesToPrint + 1) / 2; // 양면 프린팅 계산
         } else {
-            return this.pagesPrinted;
+            this.pagesPrinted = pagesToPrint;
         }
+        return this.pagesPrinted;
     }
 
     public int getPagesPrinted() {
