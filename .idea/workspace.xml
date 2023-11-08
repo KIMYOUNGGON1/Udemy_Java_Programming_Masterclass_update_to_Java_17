@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sectoin_8/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sectoin_8/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sectoin_8/EnhancedPlyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sectoin_8/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sectoin_8/PrinterChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sectoin_8/PrinterLecture.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sectoin_8/Encapsulation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +58,13 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Encapsulation">
+  <component name="RunManager" selected="Application.PrinterChallenge">
     <configuration name="Bedroom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sectoin_8.Bedroom" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sectoin_8.*" />
+          <option name="PATTERN" value="sectoin_8.Printer" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,7 +77,7 @@
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sectoin_8.*" />
+          <option name="PATTERN" value="sectoin_8.Printer" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,7 +90,7 @@
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sectoin_8.*" />
+          <option name="PATTERN" value="sectoin_8.Printer" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,7 +103,7 @@
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sectoin_8.*" />
+          <option name="PATTERN" value="sectoin_8.Printer" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_7.Rectangle" />
+    <configuration name="PrinterChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sectoin_8.PrinterChallenge" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_7.*" />
+          <option name="PATTERN" value="sectoin_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrinterChallenge" />
         <item itemvalue="Application.Encapsulation" />
         <item itemvalue="Application.Bedroom" />
         <item itemvalue="Application.CompositionChallengeLecture" />
         <item itemvalue="Application.ComputerFactory" />
-        <item itemvalue="Application.Rectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +184,8 @@
       <workItem from="1699068845438" duration="2922000" />
       <workItem from="1699190193416" duration="1053000" />
       <workItem from="1699247008887" duration="3287000" />
-      <workItem from="1699323557287" duration="5885000" />
+      <workItem from="1699323557287" duration="7471000" />
+      <workItem from="1699401639618" duration="4338000" />
     </task>
     <servers />
   </component>
