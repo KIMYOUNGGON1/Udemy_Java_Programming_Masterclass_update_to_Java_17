@@ -8,15 +8,15 @@ public class Car {
     }
 
     public void startEngine() {
-        System.out.println("The Engine is started!");
+        System.out.println("The " + description + "Engine is started!");
     }
 
     public void drive() {
-        System.out.println("A driver drive the car now!");
+        System.out.println(description + " driver drive the car now!");
     }
 
     protected void runEngine() {
-        System.out.println("The Car class runEngine method is operate");
+        System.out.println("The " + description + "Car runEngine method is operate");
     }
 }
 
@@ -29,6 +29,24 @@ class GasPowerdCar extends Car {
         this.avgKmPerLiter = avgKmPerLiter;
         this.cylinders = cylinders;
     }
+
+    @Override
+    public void startEngine() {
+        super.startEngine();
+        System.out.println(cylinders + "make sound");
+    }
+
+    @Override
+    public void drive() {
+        super.drive();
+        System.out.println(avgKmPerLiter + "can go");
+    }
+
+    @Override
+    protected void runEngine() {
+        super.runEngine();
+        System.out.println("engine is started");
+    }
 }
 
 class ElectricCar extends Car {
@@ -39,6 +57,24 @@ class ElectricCar extends Car {
         super(description);
         this.avgKmPerLiter = avgKmPerLiter;
         this.batterySize = batterySize;
+    }
+
+    @Override
+    public void startEngine() {
+        super.startEngine();
+        System.out.println("Electric Car is silence");
+    }
+
+    @Override
+    public void drive() {
+        super.drive();
+        System.out.println("electric car is move.");
+    }
+
+    @Override
+    protected void runEngine() {
+        super.runEngine();
+        System.out.println("The battery size is " + batterySize);
     }
 }
 
@@ -52,5 +88,23 @@ class HybridCar extends Car {
         this.avgKmPerLiter = avgKmPerLiter;
         this.batterySize = batterySize;
         this.cylinders = cylinders;
+    }
+
+    @Override
+    public void startEngine() {
+        super.startEngine();
+        System.out.println("Hybrid Car is less make noise than normal car.");
+    }
+
+    @Override
+    public void drive() {
+        super.drive();
+        System.out.println("Driver drive hybrid car now");
+    }
+
+    @Override
+    protected void runEngine() {
+        super.runEngine();
+        System.out.println("hybrid car make sound");
     }
 }
