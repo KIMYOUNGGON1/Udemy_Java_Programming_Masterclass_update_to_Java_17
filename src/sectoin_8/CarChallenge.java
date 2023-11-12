@@ -1,9 +1,11 @@
 package sectoin_8;
 
-public class Car {
+import section_7.Car;
+
+public class CarChallenge {
     private String description;
 
-    public Car(String description) {
+    public CarChallenge(String description) {
         this.description = description;
     }
 
@@ -20,11 +22,11 @@ public class Car {
     }
 }
 
-class GasPowerdCar extends Car {
+class GasPoweredCar extends CarChallenge {
     private double avgKmPerLiter;
     private int cylinders;
 
-    public GasPowerdCar(String description, double avgKmPerLiter, int cylinders) {
+    public GasPoweredCar(String description, double avgKmPerLiter, int cylinders) {
         super(description);
         this.avgKmPerLiter = avgKmPerLiter;
         this.cylinders = cylinders;
@@ -49,7 +51,7 @@ class GasPowerdCar extends Car {
     }
 }
 
-class ElectricCar extends Car {
+class ElectricCar extends CarChallenge {
     private double avgKmPerLiter;
     private int batterySize;
 
@@ -78,7 +80,7 @@ class ElectricCar extends Car {
     }
 }
 
-class HybridCar extends Car {
+class HybridCar extends CarChallenge {
     private double avgKmPerLiter;
     private int batterySize;
     private int cylinders;
