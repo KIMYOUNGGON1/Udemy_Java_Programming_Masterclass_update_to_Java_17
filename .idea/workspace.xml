@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sectoin_8/CarChallenge_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sectoin_8/PolymorphismChallenge_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sectoin_8/Hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sectoin_8/OOPMasterChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sectoin_8/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sectoin_8/CarChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sectoin_8/CarChallengeLecture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sectoin_8/CarChallengeLecture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sectoin_8/PolymorphismChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sectoin_8/PolymorphismChallenge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +186,8 @@
       <workItem from="1699488034729" duration="3063000" />
       <workItem from="1699583130319" duration="3857000" />
       <workItem from="1699689585757" duration="1448000" />
-      <workItem from="1699770862718" duration="3546000" />
+      <workItem from="1699770862718" duration="4221000" />
+      <workItem from="1699863299102" duration="1116000" />
     </task>
     <servers />
   </component>
