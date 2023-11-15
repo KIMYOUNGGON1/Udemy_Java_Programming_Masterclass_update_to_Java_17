@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/billsBurgerChallenge/Burger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/billsBurgerChallenge/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/billsBurgerChallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/billsBurgerChallenge/DeluxeBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/billsBurgerChallenge/MealOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/billsBurgerChallenge/Burger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/billsBurgerChallenge/Burger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/billsBurgerChallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/billsBurgerChallenge/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +190,8 @@
       <workItem from="1699689585757" duration="1448000" />
       <workItem from="1699770862718" duration="4221000" />
       <workItem from="1699863299102" duration="1232000" />
-      <workItem from="1699921621296" duration="2547000" />
+      <workItem from="1699921621296" duration="3349000" />
+      <workItem from="1700010420579" duration="2969000" />
     </task>
     <servers />
   </component>
