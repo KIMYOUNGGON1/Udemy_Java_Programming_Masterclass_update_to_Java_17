@@ -1,4 +1,4 @@
-package sectoin_8;
+package section_8;
 
 public class EnhancedPlyer {
     private String fullName;

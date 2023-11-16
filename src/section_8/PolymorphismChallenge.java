@@ -1,6 +1,4 @@
-package sectoin_8;
-
-import section_7.Car;
+package section_8;
 
 public class PolymorphismChallenge {
     public static void main(String[] args) {

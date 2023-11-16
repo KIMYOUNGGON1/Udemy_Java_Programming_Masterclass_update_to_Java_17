@@ -1,4 +1,4 @@
-package sectoin_8;
+package section_8;
 
 public class NextPolymorphism {
     public static void main(String[] args) {

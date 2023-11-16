@@ -1,7 +1,5 @@
-package sectoin_8;
+package section_8;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class Polymorphism {

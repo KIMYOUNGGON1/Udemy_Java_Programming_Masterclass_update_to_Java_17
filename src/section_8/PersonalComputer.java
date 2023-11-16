@@ -1,4 +1,4 @@
-package sectoin_8;
+package section_8;
 
 public class PersonalComputer extends Product {
     private ComputerCase computerCase;

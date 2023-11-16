@@ -5,11 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/billsBurgerChallenge/DeluxeBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/billsBurgerChallenge/MealOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_8/packages/com/abc/first/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_8/packages/dev/lpa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_9/arraysProject/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/billsBurgerChallenge/Burger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/billsBurgerChallenge/Burger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/billsBurgerChallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/billsBurgerChallenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/Bedroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/Bedroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/CarChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/CarChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/CarChallengeLecture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/CarChallengeLecture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/CarChallenge_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/CarChallenge_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/CompositionChallengeLecture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/CompositionChallengeLecture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/ComputerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/ComputerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/Encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/EnhancedPlyer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/EnhancedPlyer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/Hamburger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/Kitchen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/Kitchen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/NextPolymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/NextPolymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/OOPMasterChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/OOPMasterChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/PersonalComputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/PersonalComputer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/Polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/PolymorphismChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/PolymorphismChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/PolymorphismChallenge_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/PolymorphismChallenge_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/PrinterChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/PrinterChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/PrinterLecture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/PrinterLecture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/SmartKitchen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/SmartKitchen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sectoin_8/SmartKitchenLecture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_8/SmartKitchenLecture.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +80,7 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.section_9.arraysProject.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="billsBurgerChallenge.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -71,38 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextPolymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sectoin_8.NextPolymorphism" />
-      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sectoin_8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sectoin_8.Polymorphism" />
-      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sectoin_8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PolymorphismChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sectoin_8.PolymorphismChallenge" />
+      <option name="MAIN_CLASS_NAME" value="section_8.PolymorphismChallenge" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sectoin_8.*" />
+          <option name="PATTERN" value="section_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +108,37 @@
       </method>
     </configuration>
     <configuration name="PolymorphismChallenge_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sectoin_8.PolymorphismChallenge_2" />
+      <option name="MAIN_CLASS_NAME" value="section_8.PolymorphismChallenge_2" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sectoin_8.*" />
+          <option name="PATTERN" value="section_8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="section_8.packages.dev.lpa.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_8.packages.dev.lpa.Main" />
+      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section_8.packages.dev.lpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="section_9.arraysProject.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_9.arraysProject.Main" />
+      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section_9.arraysProject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.section_9.arraysProject.Main" />
+        <item itemvalue="Application.section_8.packages.dev.lpa.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.PolymorphismChallenge" />
         <item itemvalue="Application.PolymorphismChallenge_2" />
-        <item itemvalue="Application.NextPolymorphism" />
-        <item itemvalue="Application.Polymorphism" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +214,8 @@
       <workItem from="1699770862718" duration="4221000" />
       <workItem from="1699863299102" duration="1232000" />
       <workItem from="1699921621296" duration="3349000" />
-      <workItem from="1700010420579" duration="2969000" />
+      <workItem from="1700010420579" duration="3906000" />
+      <workItem from="1700091229748" duration="3233000" />
     </task>
     <servers />
   </component>
