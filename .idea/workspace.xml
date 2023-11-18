@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/section_9/arraysChallengeExercise/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_9/usingArrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_9/usingArrays/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.section_9.usingArrays.Main">
+  <component name="RunManager" selected="Application.section_9.arraysChallengeExercise.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="billsBurgerChallenge.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolymorphismChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_8.PolymorphismChallenge" />
+    <configuration name="section_8.packages.dev.lpa.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_8.packages.dev.lpa.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_8.*" />
+          <option name="PATTERN" value="section_8.packages.dev.lpa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="section_8.packages.dev.lpa.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_8.packages.dev.lpa.Main" />
+    <configuration name="section_9.arraysChallengeExercise.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_9.arraysChallengeExercise.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_8.packages.dev.lpa.*" />
+          <option name="PATTERN" value="section_9.arraysChallengeExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.section_9.arraysChallengeExercise.Main" />
         <item itemvalue="Application.section_9.usingArrays.Main" />
         <item itemvalue="Application.section_9.arraysProject.Main" />
         <item itemvalue="Application.section_8.packages.dev.lpa.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.PolymorphismChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +190,8 @@
       <workItem from="1699921621296" duration="3349000" />
       <workItem from="1700010420579" duration="3906000" />
       <workItem from="1700091229748" duration="4131000" />
-      <workItem from="1700179054565" duration="2260000" />
+      <workItem from="1700179054565" duration="2515000" />
+      <workItem from="1700281698773" duration="1001000" />
     </task>
     <servers />
   </component>
