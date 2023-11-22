@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_9/arrayReferences/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_9/varArgs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_9/minimumElementChallenge/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,7 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.section_9.varArgs.Main">
+  <component name="RunManager" selected="Application.section_9.minimumElementChallenge.Main">
     <configuration name="Lecture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_9.arraysChallengeExercise.Lecture" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -95,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="section_9.arraysChallengeExercise.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_9.arraysChallengeExercise.Main" />
+    <configuration name="section_9.minimumElementChallenge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_9.minimumElementChallenge.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_9.arraysChallengeExercise.*" />
+          <option name="PATTERN" value="section_9.minimumElementChallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.section_9.minimumElementChallenge.Main" />
         <item itemvalue="Application.section_9.varArgs.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.SortedArray" />
         <item itemvalue="Application.Lecture" />
-        <item itemvalue="Application.section_9.arraysChallengeExercise.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +193,9 @@
       <workItem from="1700179054565" duration="2515000" />
       <workItem from="1700281698773" duration="1225000" />
       <workItem from="1700461777301" duration="4000000" />
-      <workItem from="1700533225067" duration="1906000" />
+      <workItem from="1700533225067" duration="3250000" />
+      <workItem from="1700555573581" duration="2000" />
+      <workItem from="1700610650912" duration="1561000" />
     </task>
     <servers />
   </component>
