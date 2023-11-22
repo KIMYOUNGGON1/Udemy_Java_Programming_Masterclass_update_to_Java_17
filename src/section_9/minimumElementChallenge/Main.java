@@ -7,40 +7,36 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
 
-        int[] ints = readInteger(sc);
+        int[] ints = readInteger();
         System.out.println(Arrays.toString(ints));
 
+        int min = findMin(ints);
+        System.out.println("Min value : " + min);
 
     }
 
-    public static int[] readInteger(Scanner scanner) {
-        scanner.useDelimiter(",");
+    public static int[] readInteger() {
 
-        List<Integer> integerList = new ArrayList<>();
+        Scanner scanner = new Scanner(System.in);
+        String line = scanner.nextLine();
+        
+        String[] tokens = line.split(",");
+        int[] values = new int[tokens.length];
 
-        while (scanner.hasNext()) {
-            int tempInt = scanner.nextInt();
-            integerList.add(tempInt);
+        for (int i = 0; i < values.length; i++) {
+            values[i] = Integer.parseInt(tokens[i].trim());
         }
 
-        int[] resultArray = new int[integerList.size()];
-        for (int i = 0; i < integerList.size(); i++) {
-            resultArray[i] = integerList.get(i);
-        }
-
-        return resultArray;
+        return values;
     }
 
     public static int findMin(int[] array) {
-        int min = 0;
+        int min = Integer.MAX_VALUE;
 
-        for (int i = 0; i < array.length; i++) {
-            if (array[i] <= array[i + 1]) {
-                min = array[i];
-            } else if (array[i] > array[i + 1]) {
-                min = array[i + 1];
+        for (int value : array) {
+            if (value < min) {
+                min = value;
             }
         }
 

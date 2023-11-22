@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_9/minimumElementChallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_9/minimumElementChallenge/Challenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_9/minimumElementChallenge/Lecture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_9/reverseArrayChallenge/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_9/minimumElementChallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_9/minimumElementChallenge/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +57,13 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.section_9.minimumElementChallenge.Main">
-    <configuration name="Lecture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_9.arraysChallengeExercise.Lecture" />
+  <component name="RunManager" selected="Application.section_9.reverseArrayChallenge.Main">
+    <configuration name="Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_9.minimumElementChallenge.Challenge" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_9.arraysChallengeExercise.*" />
+          <option name="PATTERN" value="section_9.minimumElementChallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,25 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_9.arrayReferences.Main" />
+    <configuration name="section_9.minimumElementChallenge.Lecture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_9.minimumElementChallenge.Lecture" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_9.arrayReferences.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_9.arrayChallenge.SortedArray" />
-      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section_9.arrayChallenge.*" />
+          <option name="PATTERN" value="section_9.minimumElementChallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,6 +90,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="section_9.minimumElementChallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="section_9.reverseArrayChallenge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_9.reverseArrayChallenge.Main" />
+      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section_9.reverseArrayChallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.section_9.reverseArrayChallenge.Main" />
+        <item itemvalue="Application.Challenge" />
+        <item itemvalue="Application.section_9.minimumElementChallenge.Lecture" />
         <item itemvalue="Application.section_9.minimumElementChallenge.Main" />
         <item itemvalue="Application.section_9.varArgs.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.SortedArray" />
-        <item itemvalue="Application.Lecture" />
       </list>
     </recent_temporary>
   </component>
@@ -195,12 +198,23 @@
       <workItem from="1700461777301" duration="4000000" />
       <workItem from="1700533225067" duration="3250000" />
       <workItem from="1700555573581" duration="2000" />
-      <workItem from="1700610650912" duration="1561000" />
+      <workItem from="1700610650912" duration="7593000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
