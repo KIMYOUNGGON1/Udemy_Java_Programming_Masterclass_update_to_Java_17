@@ -12,52 +12,42 @@ public class MobilePhone {
     }
 
     public boolean addNewContact(Contact contact) {
-        if (myContacts.contains(contact)) {
-            return true;
-        } else {
-            return false;
-        }
+        return !myContacts.contains(contact) && myContacts.add(contact);
     }
 
     public boolean updateContact(Contact prevContact, Contact outContact) {
-        if (myContacts.contains(prevContact) &&
-            myContacts.add(outContact)) {
-            return true;
-        } else {
-            return false;
-        }
+        return myContacts.remove(prevContact) && myContacts.add(outContact);
     }
 
     public boolean removeContact(Contact contact) {
-        if (myContacts.contains(contact)) {
-            myContacts.remove(contact);
-            return true;
-        } else {
-            return false;
-        }
+        return myContacts.remove(contact);
     }
 
-    public int findContact(Contact contacts) {
-        if (myContacts.contains(contacts)) {
-            int index = myContacts.indexOf(contacts);
-            return index;
-        } else {
-            return -1;
-        }
+    public int findContact(Contact contact) {
+        return myContacts.indexOf(contact);
     }
 
-    public int findContact(String contacts) {
-        if (myContacts.contains(contacts)) {
-            int index = myContacts.indexOf(contacts);
-            return index;
-        } else {
-            return -1;
+    public int findContact(String name) {
+        for (int i = 0; i < myContacts.size(); i++) {
+            if (myContacts.get(i).getName().equals(name)) {
+                return i;
+            }
         }
+        return -1;
     }
 
-    public Contact queryContact(String parameter) {
-        if (myContacts.contains(parameter)) {
-            return
+    public Contact queryContact(String name) {
+        for (Contact contact : myContacts) {
+            if (contact.getName().equals(name)) {
+                return contact;
+            }
+        }
+        return null;
+    }
+
+    public void printContacts() {
+        for (int i = 0; i < myContacts.size(); i++) {
+            System.out.println(myContacts.get(i).getName() + " -> " + myContacts.get(i).getPhoneNumber());
         }
     }
 
