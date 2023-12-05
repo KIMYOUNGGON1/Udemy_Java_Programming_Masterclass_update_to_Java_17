@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/section_10/autoBoxing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_10/playListChallenge/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/section_10/playListChallenge/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_10/playListChallenge/Album.java" afterDir="false" />
     </list>
@@ -57,13 +59,13 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.section_10.linkedListChallenge.Lecture">
-    <configuration name="Lecture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_10.theArrayListChallenge.Lecture" />
+  <component name="RunManager" selected="Application.section_10.autoBoxing.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_10.linkedListChallenge.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_10.theArrayListChallenge.*" />
+          <option name="PATTERN" value="section_10.linkedListChallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_10.linkedListChallenge.Main" />
+    <configuration name="section_10.autoBoxing.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_10.autoBoxing.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_10.linkedListChallenge.*" />
+          <option name="PATTERN" value="section_10.autoBoxing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="section_10.theArrayListChallenge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_10.theArrayListChallenge.Main" />
+    <configuration name="section_10.playListChallenge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_10.playListChallenge.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_10.theArrayListChallenge.*" />
+          <option name="PATTERN" value="section_10.playListChallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.section_10.autoBoxing.Main" />
+        <item itemvalue="Application.section_10.playListChallenge.Main" />
         <item itemvalue="Application.section_10.linkedListChallenge.Lecture" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.section_10.linkedLists.Main" />
-        <item itemvalue="Application.Lecture" />
-        <item itemvalue="Application.section_10.theArrayListChallenge.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +213,7 @@
       <workItem from="1701503487450" duration="1768000" />
       <workItem from="1701603290523" duration="1393000" />
       <workItem from="1701652622755" duration="4273000" />
-      <workItem from="1701734460527" duration="2540000" />
+      <workItem from="1701734460527" duration="5064000" />
     </task>
     <servers />
   </component>
