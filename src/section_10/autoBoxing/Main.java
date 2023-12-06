@@ -2,6 +2,7 @@ package section_10.autoBoxing;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
@@ -26,11 +27,13 @@ public class Main {
         Character[] characterArray = {'a', 'b', 'c', 'd'};
         System.out.println(Arrays.toString(characterArray));
 
-        var ourList = getList(1, 2, 3, 4, 5);
+        var ourList = List.of(1, 2, 3, 4, 5);
         System.out.println(ourList);
+
+
     }
 
-    private static ArrayList<Integer> getList(int... varargs) {
+    private static ArrayList<Integer> getList(Integer... varargs) {
         ArrayList<Integer> aList = new ArrayList<>();
         for (int i : varargs) {
             aList.add(i);
