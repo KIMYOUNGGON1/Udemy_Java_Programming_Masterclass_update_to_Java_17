@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_10/autoboxingChallengeLecture/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_10/autoboxingChallengeLecture/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_10/autoboxingChallengeLecture/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +213,8 @@
       <workItem from="1701652622755" duration="4273000" />
       <workItem from="1701734460527" duration="5281000" />
       <workItem from="1701820701377" duration="2640000" />
-      <workItem from="1701917589029" duration="1113000" />
+      <workItem from="1701917589029" duration="1518000" />
+      <workItem from="1701932906674" duration="697000" />
     </task>
     <servers />
   </component>
