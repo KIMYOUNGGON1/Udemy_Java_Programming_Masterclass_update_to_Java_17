@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/section_10/banking/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_10/banking/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_10/banking/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_10/autoboxingChallengeLecture/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_10/autoboxingChallengeLecture/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_10/banking/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_10/banking/Bank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,20 +60,7 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.section_10.autoboxingChallengeLecture.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_10.linkedListChallenge.Main" />
-      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section_10.linkedListChallenge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.section_10.banking.Main">
     <configuration name="section_10.autoBoxing.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_10.autoBoxing.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -90,6 +80,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="section_10.autoboxingChallengeLecture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="section_10.banking.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_10.banking.Main" />
+      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section_10.banking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.section_10.banking.Main" />
         <item itemvalue="Application.section_10.autoboxingChallengeLecture.Main" />
         <item itemvalue="Application.section_10.autoBoxing.Main" />
         <item itemvalue="Application.section_10.playListChallenge.Main" />
         <item itemvalue="Application.section_10.linkedListChallenge.Lecture" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +218,8 @@
       <workItem from="1701820701377" duration="2640000" />
       <workItem from="1701917589029" duration="1518000" />
       <workItem from="1701932906674" duration="813000" />
-      <workItem from="1702011711671" duration="1746000" />
+      <workItem from="1702011711671" duration="2385000" />
+      <workItem from="1702127649491" duration="3301000" />
     </task>
     <servers />
   </component>
