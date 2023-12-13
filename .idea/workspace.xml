@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_11/abstractClassChallenge/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_11/abstractClassChallenge/Snack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_11/lectureAbstractClassChallenge/ArtObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_11/lectureAbstractClassChallenge/ProductForSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_11/lectureAbstractClassChallenge/Store.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_11/abstractClassChallenge/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_11/abstractClassChallenge/OrderItem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/section_11/abstractClassChallenge/ProductForSale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_11/abstractClassChallenge/ProductForSale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_11/abstractClassChallenge/Snack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_11/abstractClassChallenge/Snack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/section_11/abstractClassChallenge/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_11/abstractClassChallenge/Store.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +65,7 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.section_11.abstractClasses.Main">
+  <component name="RunManager" selected="Application.Store">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_10.enumProject.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -76,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="section_10.autoBoxing.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_10.autoBoxing.Main" />
+    <configuration name="Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_11.lectureAbstractClassChallenge.Store" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_10.autoBoxing.*" />
+          <option name="PATTERN" value="section_11.lectureAbstractClassChallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Store" />
         <item itemvalue="Application.section_11.abstractClasses.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.section_10.banking.Main" />
         <item itemvalue="Application.section_10.autoboxingChallengeLecture.Main" />
-        <item itemvalue="Application.section_10.autoBoxing.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +228,8 @@
       <workItem from="1702174932928" duration="4152000" />
       <workItem from="1702276620698" duration="1380000" />
       <workItem from="1702283124057" duration="589000" />
-      <workItem from="1702340594003" duration="2499000" />
+      <workItem from="1702340594003" duration="2751000" />
+      <workItem from="1702455132685" duration="3138000" />
     </task>
     <servers />
   </component>

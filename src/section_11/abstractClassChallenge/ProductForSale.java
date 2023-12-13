@@ -18,11 +18,8 @@ public abstract class ProductForSale {
         return price * quantity;
     }
 
-    public void printPricedLineItem() {
-        ArrayList<OrderItem> itemArrayList = new ArrayList<>();
-        for (var item : itemArrayList) {
-            System.out.println(item.getClass().getSimpleName() + " ( " + type + " ) " );
-        }
+    public void printPricedLineItem(int quantity) {
+        System.out.println(quantity + " x " + type + " at $" + price + " each. Total: $" + getSalesPrice(quantity));
     }
 
     public abstract void showDetails();

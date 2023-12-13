@@ -8,7 +8,7 @@ public class Snack extends ProductForSale{
 
     @Override
     public void showDetails() {
-        System.out.println("The product type is " + getClass().getSimpleName() +
-                " and the price of the product is " );
+        System.out.println("Product Type: " + getClass().getSimpleName() +
+                ", Description: " + ", Price: $" + getSalesPrice(1));
     }
 }
