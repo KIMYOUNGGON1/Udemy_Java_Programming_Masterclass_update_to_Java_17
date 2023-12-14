@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_11/lectureAbstractClassChallenge/ArtObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_11/lectureAbstractClassChallenge/ProductForSale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_11/lectureAbstractClassChallenge/Store.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_11/abstractClassChallenge/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_11/abstractClassChallenge/OrderItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_11/abstractClassChallenge/ProductForSale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_11/abstractClassChallenge/ProductForSale.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_11/abstractClassChallenge/Snack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_11/abstractClassChallenge/Snack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_11/abstractClassChallenge/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_11/abstractClassChallenge/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_11/lectureAbstractClassChallenge/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_11/lectureAbstractClassChallenge/Store.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +46,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -229,7 +223,9 @@
       <workItem from="1702276620698" duration="1380000" />
       <workItem from="1702283124057" duration="589000" />
       <workItem from="1702340594003" duration="2751000" />
-      <workItem from="1702455132685" duration="3138000" />
+      <workItem from="1702455132685" duration="3226000" />
+      <workItem from="1702516336745" duration="691000" />
+      <workItem from="1702532355034" duration="1090000" />
     </task>
     <servers />
   </component>

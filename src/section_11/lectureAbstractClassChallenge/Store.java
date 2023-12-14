@@ -2,6 +2,10 @@ package section_11.lectureAbstractClassChallenge;
 
 import java.util.ArrayList;
 
+
+record OrderItem(int qty, ProductForSale product) {
+
+}
 public class Store {
 
     private static ArrayList<ProductForSale> storeProducts = new ArrayList<>();
@@ -20,5 +24,18 @@ public class Store {
             System.out.println("-".repeat(30));
             item.showDetails();
         }
+    }
+
+    public static void addItemToOrder(ArrayList<OrderItem> order, int orderIndex, int qty) {
+        order.add(new OrderItem(qty, storeProducts.get(orderIndex)));
+    }
+
+    public static void printOrder(ArrayList<OrderItem> order) {
+        double salesTotal = 0;
+        for (var item : order) {
+            item.product().printPricedItem(item.qty());
+            salesTotal += item.product().getSalesPrice(item.qty());
+        }
+        System.out.printf("Sales Total = $%6.2f %n", salesTotal);
     }
 }
