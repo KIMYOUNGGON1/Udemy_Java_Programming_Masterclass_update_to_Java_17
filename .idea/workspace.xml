@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/section_11/anotherAbstractClassChallenge/ListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_11/anotherAbstractClassChallenge/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_11/anotherAbstractClassChallenge/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_11/anotherAbstractClassChallenge/NodeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_11/anotherAbstractClassChallenge/SearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_11/lectureAbstractClassChallenge/Furniture.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/section_11/lectureAbstractClassChallenge/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_11/lectureAbstractClassChallenge/Store.java" afterDir="false" />
     </list>
@@ -18,6 +24,7 @@
       <list>
         <option value="Record" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -55,6 +62,7 @@
       <recent name="section_10.playListChallenge" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="section_11.lectureAbstractClassChallenge" />
       <recent name="section_11.abstractClasses" />
       <recent name="section_5" />
     </key>
@@ -225,7 +233,8 @@
       <workItem from="1702340594003" duration="2751000" />
       <workItem from="1702455132685" duration="3226000" />
       <workItem from="1702516336745" duration="691000" />
-      <workItem from="1702532355034" duration="1090000" />
+      <workItem from="1702532355034" duration="1281000" />
+      <workItem from="1702610196959" duration="2642000" />
     </task>
     <servers />
   </component>
