@@ -5,6 +5,6 @@ public interface NodeList {
 
     abstract boolean addItem(ListItem item);
 
-    abstract void removeItem();
-    abstract void traverse();
+    abstract boolean removeItem(ListItem item);
+    abstract boolean traverse(ListItem item);
 }

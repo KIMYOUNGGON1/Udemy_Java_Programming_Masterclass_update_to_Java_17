@@ -19,12 +19,12 @@ public class SearchTree implements NodeList{
     }
 
     @Override
-    public void removeItem() {
-
+    public boolean removeItem(ListItem item) {
+        return false;
     }
 
     @Override
-    public void traverse() {
-
+    public boolean traverse(ListItem item) {
+        return false;
     }
 }
