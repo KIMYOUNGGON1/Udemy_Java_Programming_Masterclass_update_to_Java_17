@@ -1,4 +1,4 @@
-package src.section_11.interfaces;
+package section_11.interface_lecture;
 
 import java.util.LinkedList;
 import java.util.List;

@@ -1,6 +1,6 @@
-package src.section_11.interfaces;
+package section_11.interface_lecture;
 
-public class Jet implements FlightEnabled, Trackable{
+public class Jet implements FlightEnabled, Trackable {
 
     @Override
     public void takeOff() {

@@ -1,4 +1,4 @@
-package src.section_11.interfaces;
+package section_11.interface_lecture;
 
 public class Truck implements Trackable{
     @Override
