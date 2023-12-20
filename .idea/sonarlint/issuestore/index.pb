@@ -23,3 +23,17 @@ _
 /src/section_11/interface_lecture/Satellite.java,a/d/ad16852e7c00c0562cafb5827906ab88b327b123
 _
 /src/section_11/interface_lecture/DragonFly.java,2/f/2fda6c14267b40a87334ec19160b5b52a8b9667e
+b
+2src/section_11/theInterfaceChallenge/Mappable.java,f/0/f07a39a13bf6ea64e3ba5c8d84ffe86b30aeb30e
+_
+/src/section_11/theInterfaceChallenge/Label.java,7/e/7e3c4ffad76792e3fbc8f656e4659630e2a545a4
+^
+.src/section_11/theInterfaceChallenge/Type.java,f/6/f69a6aac5158781c613bfaa8b7206fbe5a503aa1
+`
+0src/section_11/theInterfaceChallenge/Marker.java,f/b/fb7f478d0e522cd828bbe6e333afce61177e5081
+b
+2src/section_11/theInterfaceChallenge/Building.java,b/7/b78e8761ab3f1f7b7e15271be8529c4c67268a88
+e
+5src/section_11/theInterfaceChallenge/UtilityLine.java,0/4/0435d8e2b1656cfa6d73ef17b978d2c9090b1de3
+^
+.src/section_11/theInterfaceChallenge/Test.java,7/c/7c39580c9f9b59fc50eb812433eb882a010d62a1
