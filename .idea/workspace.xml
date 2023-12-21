@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_11/interfaceChallengeLecture/Building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_11/interfaceChallengeLecture/PointMarker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_11/interfaceChallengeLecture/UsageType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_11/interfaceChallengeLecture/UtilityLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_11/interfaceChallengeLecture/UtilityType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5c98750a72e79b020a369773ca9d9d5ad5ddc60d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5c98750a72e79b020a369773ca9d9d5ad5ddc60d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_11/interfaceCodingExercise/ISaveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_11/interfaceCodingExercise/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_11/interfaceCodingExercise/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_11/interfaceChallengeLecture/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_11/interfaceChallengeLecture/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +21,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Record" />
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -257,7 +253,7 @@
       <workItem from="1703035679116" duration="580000" />
       <workItem from="1703036272300" duration="4717000" />
       <workItem from="1703050573242" duration="3235000" />
-      <workItem from="1703133735202" duration="2641000" />
+      <workItem from="1703133735202" duration="4722000" />
     </task>
     <servers />
   </component>
