@@ -41,3 +41,13 @@ c
 3src/section_11/interfaceChallengeLecture/Color.java,4/e/4eebe3ca47cb66ffc1f38712d4d971a341d89f88
 h
 8src/section_11/interfaceChallengeLecture/LineMarker.java,4/f/4f6527078ff01c9888306bd25821ea50842ec0b2
+f
+6src/section_11/interfaceChallengeLecture/Building.java,4/2/4286a880d951dbf4849e25e94c36b37557440a3f
+g
+7src/section_11/interfaceChallengeLecture/UsageType.java,7/7/7717429228bf4d8b3cf9fb2a85f9728637728444
+i
+9src/section_11/interfaceChallengeLecture/PointMarker.java,1/5/15577e0f52979b8be97882be430fca4a6a19a97e
+i
+9src/section_11/interfaceChallengeLecture/UtilityLine.java,c/f/cfe701e9b8d6eb68608866e9276f348b7ff30645
+i
+9src/section_11/interfaceChallengeLecture/UtilityType.java,4/e/4efeca7c545be78f0cd5d81c9ff91a47e67289c0

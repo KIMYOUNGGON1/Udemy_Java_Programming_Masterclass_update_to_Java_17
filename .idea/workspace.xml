@@ -5,18 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_11/interfaceChallengeLecture/Geometry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_11/interfaceChallengeLecture/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_11/interfaceChallengeLecture/Mappable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e3c4ffad76792e3fbc8f656e4659630e2a545a4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f69a6aac5158781c613bfaa8b7206fbe5a503aa1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb7f478d0e522cd828bbe6e333afce61177e5081" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_11/interfaceChallengeLecture/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_11/interfaceChallengeLecture/PointMarker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_11/interfaceChallengeLecture/UsageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_11/interfaceChallengeLecture/UtilityLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_11/interfaceChallengeLecture/UtilityType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5c98750a72e79b020a369773ca9d9d5ad5ddc60d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5c98750a72e79b020a369773ca9d9d5ad5ddc60d" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/e/7e3c4ffad76792e3fbc8f656e4659630e2a545a4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/6/f69a6aac5158781c613bfaa8b7206fbe5a503aa1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/b/fb7f478d0e522cd828bbe6e333afce61177e5081" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_11/interfaceChallengeLecture/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_11/interfaceChallengeLecture/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Record" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
         <option value="Enum" />
       </list>
     </option>
@@ -49,26 +47,27 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.section_11.theInterfaceChallenge.Test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/uniess/YG_Personal/Udemy_Java_Programming_Masterclass_update_to_Java_17&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Test.executor": "Run",
+    "Application.section_11.interfaceChallengeLecture.Main.executor": "Run",
+    "Application.section_11.theInterfaceChallenge.Test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/uniess/YG_Personal/Udemy_Java_Programming_Masterclass_update_to_Java_17",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editor.preferences.import",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="section_10.playListChallenge" />
@@ -79,20 +78,7 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.section_11.theInterfaceChallenge.Test">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_10.enumProject.Main" />
-      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section_10.enumProject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.section_11.interfaceChallengeLecture.Main">
     <configuration name="Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_11.lectureAbstractClassChallenge.Store" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -132,6 +118,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="section_11.interfaceChallengeLecture.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_11.interfaceChallengeLecture.Main" />
+      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section_11.interfaceChallengeLecture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="section_11.theInterfaceChallenge.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_11.theInterfaceChallenge.Test" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -147,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.section_11.interfaceChallengeLecture.Main" />
         <item itemvalue="Application.section_11.theInterfaceChallenge.Test" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Store" />
         <item itemvalue="Application.section_11.abstractClasses.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +257,7 @@
       <workItem from="1703035679116" duration="580000" />
       <workItem from="1703036272300" duration="4717000" />
       <workItem from="1703050573242" duration="3235000" />
-      <workItem from="1703133735202" duration="1075000" />
+      <workItem from="1703133735202" duration="2641000" />
     </task>
     <servers />
   </component>
