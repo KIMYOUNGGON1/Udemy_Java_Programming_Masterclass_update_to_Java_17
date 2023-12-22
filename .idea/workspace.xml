@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_11/interfaceCodingExercise/ISaveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_11/interfaceCodingExercise/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_11/interfaceCodingExercise/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/generics/BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/generics/BaseballTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/generics/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -20,9 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Record" />
         <option value="Enum" />
         <option value="Interface" />
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -45,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.section_11.interfaceChallengeLecture.Main.executor": "Run",
     "Application.section_11.theInterfaceChallenge.Test.executor": "Run",
@@ -74,7 +75,20 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.section_11.interfaceChallengeLecture.Main">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_12.generics.Main" />
+      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section_12.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_11.lectureAbstractClassChallenge.Store" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -94,19 +108,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="section_11.interface_lecture.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="section_11.abstractClasses.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_11.abstractClasses.Main" />
-      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section_11.abstractClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.section_11.interfaceChallengeLecture.Main" />
         <item itemvalue="Application.section_11.theInterfaceChallenge.Test" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Store" />
-        <item itemvalue="Application.section_11.abstractClasses.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +254,8 @@
       <workItem from="1703035679116" duration="580000" />
       <workItem from="1703036272300" duration="4717000" />
       <workItem from="1703050573242" duration="3235000" />
-      <workItem from="1703133735202" duration="4722000" />
+      <workItem from="1703133735202" duration="5442000" />
+      <workItem from="1703210993212" duration="1234000" />
     </task>
     <servers />
   </component>
