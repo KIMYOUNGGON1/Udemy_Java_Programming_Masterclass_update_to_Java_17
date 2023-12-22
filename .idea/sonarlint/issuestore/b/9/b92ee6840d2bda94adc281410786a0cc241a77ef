@@ -1,29 +1,30 @@
 
 Q
-java:S3740"/Provide the parametrized type for this generic.(ÕŠÑùÿÿÿÿ8şµßıÈ1
-Q
-java:S3740"/Provide the parametrized type for this generic.(ÆšÑˆûÿÿÿÿ8Å¡àıÈ1
+java:S3740"/Provide the parametrized type for this generic.(šï¿†ùÿÿÿÿ8çàİşÈ1
 L
-java:S37401"/Provide the parametrized type for this generic.(×öı8ë›âıÈ1
+java:S3740"/Provide the parametrized type for this generic.(Ş˜ñÖ8çàİşÈ1
+L
+java:S3740?"/Provide the parametrized type for this generic.(×öı8çàİşÈ1
 Q
-java:S37402"/Provide the parametrized type for this generic.(˜‚‰ÿüÿÿÿÿ8Ã»âıÈ1
+java:S3740@"/Provide the parametrized type for this generic.(˜‚‰ÿüÿÿÿÿ8çàİşÈ1
 s
-java:S1192"VDefine a constant instead of duplicating this literal "Philadelphia Phillies" 3 times.(óä¾È8ÀéİıÈ1
+java:S1192"VDefine a constant instead of duplicating this literal "Philadelphia Phillies" 3 times.(óä¾È8èàİşÈ1
 q
-java:S1192"ODefine a constant instead of duplicating this literal "Houston Astros" 3 times.(õÃùÃüÿÿÿÿ8ÁéİıÈ1
+java:S1192	"ODefine a constant instead of duplicating this literal "Houston Astros" 3 times.(õÃùÃüÿÿÿÿ8èàİşÈ1
 i
-java:S1192'"LDefine a constant instead of duplicating this literal "%s %s %s %n" 3 times.(ûø§8ì›âıÈ1
-r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„şóşÿÿÿÿ8Ú•İıÈ1
-l	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦œ´|8Û•İıÈ1
-m	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡àà8Û•İıÈ1
-r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òé®½şÿÿÿÿ8Û•İıÈ1
-m	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×öı8í›âıÈ1
-r	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜‚‰ÿüÿÿÿÿ8í›âıÈ1
-u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç°‡K8Ü•İıÈ1
+java:S11925"LDefine a constant instead of duplicating this literal "%s %s %s %n" 3 times.(ûø§8èàİşÈ1
+r	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„şóşÿÿÿÿ8èàİşÈ1
+l	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦œ´|8èàİşÈ1
+m	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡àà8èàİşÈ1
+r	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òé®½şÿÿÿÿ8èàİşÈ1
+m	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×öı8èàİşÈ1
+r	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜‚‰ÿüÿÿÿÿ8èàİşÈ1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç°‡K8éàİşÈ1
 Z
-java:S1854"8Remove this useless assignment to local variable "afc1".(¡‚åıúÿÿÿÿ8ÍèıÈ1
+java:S1854"8Remove this useless assignment to local variable "afc1".(¡‚åıúÿÿÿÿ8ïàİşÈ1
 K
-java:S1481")Remove this unused "afc1" local variable.(¡‚åıúÿÿÿÿ8÷½êıÈ1
-G	java:S106'"+Replace this use of System.out by a logger.(ûø§8å•İıÈ1
-G	java:S106."+Replace this use of System.out by a logger.(ûø§8æ•İıÈ1
-G	java:S1065"+Replace this use of System.out by a logger.(ûø§8ÿ›âıÈ1
+java:S1481")Remove this unused "afc1" local variable.(¡‚åıúÿÿÿÿ8óàİşÈ1
+]	java:S125."<This block of commented-out lines of code should be removed.(¶ñÄışÿÿÿÿ8õàİşÈ1
+G	java:S1065"+Replace this use of System.out by a logger.(ûø§8÷àİşÈ1
+G	java:S106<"+Replace this use of System.out by a logger.(ûø§8øàİşÈ1
+G	java:S106C"+Replace this use of System.out by a logger.(ûø§8ùàİşÈ1

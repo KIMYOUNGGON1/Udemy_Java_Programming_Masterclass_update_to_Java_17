@@ -1,6 +1,7 @@
 
 {
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(²’Ëúÿÿÿÿÿ8¨¯ÓıÈ1
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç°‡K
-E	java:S106"+Replace this use of System.out by a logger.(åê±…ÿÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(ğÖº
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(²’Ëúÿÿÿÿÿ8Èì½şÈ1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç°‡K8Éì½şÈ1
+L	java:S106"+Replace this use of System.out by a logger.(âñÏæøÿÿÿÿ8Õì½şÈ1
+L	java:S106"+Replace this use of System.out by a logger.(ëÊúÿÿÿÿ8Õì½şÈ1
+L	java:S106!"+Replace this use of System.out by a logger.(ï˜ãëşÿÿÿÿ8Õì½şÈ1
