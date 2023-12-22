@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_12/generics/BaseballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_12/generics/BaseballTeam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_12/generics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/generics/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/generics/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/generics/SportsTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/generics/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b92ee6840d2bda94adc281410786a0cc241a77ef" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b92ee6840d2bda94adc281410786a0cc241a77ef" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_12/generics/BaseballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_12/generics/BaseballPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_12/generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_12/generics/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +25,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Record" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -54,7 +58,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/uniess/YG_Personal/Udemy_Java_Programming_Masterclass_update_to_Java_17",
+    "last_opened_file_path": "/Users/uniess/YG_Personal/Udemy_Java_Programming_Masterclass_update_to_Java_17/src/section_12",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,7 +73,12 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="section_10.playListChallenge" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/section_12" />
+      <recent name="$PROJECT_DIR$/src/section_12/generics" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="section_12.generics" />
       <recent name="section_11.lectureAbstractClassChallenge" />
       <recent name="section_11.abstractClasses" />
       <recent name="section_5" />
@@ -255,7 +264,7 @@
       <workItem from="1703036272300" duration="4717000" />
       <workItem from="1703050573242" duration="3235000" />
       <workItem from="1703133735202" duration="5442000" />
-      <workItem from="1703210993212" duration="1234000" />
+      <workItem from="1703210993212" duration="3147000" />
     </task>
     <servers />
   </component>

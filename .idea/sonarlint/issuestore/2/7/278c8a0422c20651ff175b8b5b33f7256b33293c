@@ -1,0 +1,23 @@
+
+W
+java:S4973#"<Strings and Boxed types should be compared using "equals()".(á³™—ıÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+M
+java:S2589"7Remove this expression which always evaluates to "true"(¦Øéù
+R
+java:S2589"7Remove this expression which always evaluates to "true"(Œ‡Ëÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÌÖöşÿÿÿÿÿ
+=
+java:S1125"'Remove the unnecessary boolean literal.(¦Øéù
+E	java:S106"+Replace this use of System.out by a logger.(í÷ÉŒşÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(ø¢ñh
+E	java:S106"+Replace this use of System.out by a logger.(€¨¼îÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¢¬‰
+@	java:S106"+Replace this use of System.out by a logger.( ˜œÖ
+E	java:S106"+Replace this use of System.out by a logger.(€˜ÿ»úÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Üâ®„ıÿÿÿÿ
+C
+java:S1125#"(Remove the unnecessary boolean literals.(á³™—ıÿÿÿÿ
+E	java:S106&"+Replace this use of System.out by a logger.(Ì‡¿Áÿÿÿÿÿ
+E	java:S106+"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ
