@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_12/generics/Affiliation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_12/generics/VolleyballPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/928a4d41bb8734a17d402f4c6ea5bcb2000ec6f2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/928a4d41bb8734a17d402f4c6ea5bcb2000ec6f2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b92ee6840d2bda94adc281410786a0cc241a77ef" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b92ee6840d2bda94adc281410786a0cc241a77ef" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/theGenericClassChallenge/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/theGenericClassChallenge/Mappable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/theGenericClassChallenge/Park.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/theGenericClassChallenge/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/theGenericClassChallenge/River.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_12/generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_12/generics/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_12/generics/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_12/generics/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_12/generics/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_12/generics/Team.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +21,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
         <option value="Record" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -47,28 +43,28 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.section_11.interfaceChallengeLecture.Main.executor": "Run",
-    "Application.section_11.theInterfaceChallenge.Test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/uniess/YG_Personal/Udemy_Java_Programming_Masterclass_update_to_Java_17/src/section_12",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.import",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.section_11.interfaceChallengeLecture.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.section_11.theInterfaceChallenge.Test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/uniess/YG_Personal/Udemy_Java_Programming_Masterclass_update_to_Java_17/src/section_12&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="section_10.playListChallenge" />
@@ -265,6 +261,7 @@
       <workItem from="1703050573242" duration="3235000" />
       <workItem from="1703133735202" duration="5442000" />
       <workItem from="1703210993212" duration="4836000" />
+      <workItem from="1703410217284" duration="1488000" />
     </task>
     <servers />
   </component>
