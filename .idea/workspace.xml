@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_12/theGenericClassChallenge/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_12/theGenericClassChallenge/Mappable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_12/theGenericClassChallenge/Park.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_12/theGenericClassChallenge/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_12/theGenericClassChallenge/River.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -261,7 +254,7 @@
       <workItem from="1703050573242" duration="3235000" />
       <workItem from="1703133735202" duration="5442000" />
       <workItem from="1703210993212" duration="4836000" />
-      <workItem from="1703410217284" duration="1488000" />
+      <workItem from="1703410217284" duration="1852000" />
     </task>
     <servers />
   </component>
