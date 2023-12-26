@@ -63,12 +63,6 @@ Q
 +src/section_12/generics/BaseballPlayer.java,8/2/8234cb102b516f16e2c1227b918db9fc2e19bae3
 Y
 )src/section_12/generics/BaseballTeam.java,9/7/973324b2043a30a0f080388d10ae521e5959bd66
-P
- src/section_12/BaseballTeam.java,7/3/7355099c58d1a78adf697f0ca674bd3b109a1352
-M
-src/section_12/SportTeam.java,c/0/c044d5be0d750793dea7db12208168f09839713e
-N
-src/section_12/SportsTeam.java,d/7/d7cc9af1be60b44b58f7e7321703fe23b48d69ac
 W
 'src/section_12/generics/SportsTeam.java,8/7/87fad4fae7eab1292d523798022db48f4da2e45a
 >
@@ -79,9 +73,17 @@ S
 +src/section_12/generics/FootballPlayer.java,4/9/49c3f918fc2de007b47a632300399909226d5841
 Q
 !src/section_12/generics/Team.java,9/2/928a4d41bb8734a17d402f4c6ea5bcb2000ec6f2
-\
-,src/section_12/generics/VollyballPlayer.java,6/a/6a147ffae028e9d307657af119942ddc2f983d80
 ]
 -src/section_12/generics/VolleyballPlayer.java,9/b/9bbf42f93c0a9a9478ef9950896f0763f8a63b15
 X
 (src/section_12/generics/Affiliation.java,2/a/2accb10942b0f824deaa5fc0954273d1f3a7ef6f
+a
+1src/section_12/theGenericClassChallenge/Main.java,f/2/f216a8e29ee83f9f235344909962c3dceabfaafc
+b
+2src/section_12/theGenericClassChallenge/Layer.java,2/7/2784c8259b74606f0c7f4ec581a018e38c5d7696
+a
+1src/section_12/theGenericClassChallenge/Park.java,c/1/c1c8382728452cdf7fdb531ba34d82630a2569bc
+b
+2src/section_12/theGenericClassChallenge/River.java,5/a/5a54e4e6b9f7123666b2efe329821087b7b15de3
+a
+1src/section_12/theGenericClassChallenge/Line.java,c/9/c9bf79fbed248e29259d620a372120dc26b14236

@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(―•νώώÿÿÿÿ
+>
+java:S1068"(Remove this unused "name" private field.(Λ¥Ό
+C
+java:S1068"-Remove this unused "riverType" private field.(χ νή
+O
+java:S1068	"4Remove this unused "googledLocations" private field.(µ€‰ώÿÿÿÿ

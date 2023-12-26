@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="" />
+    <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a147ffae028e9d307657af119942ddc2f983d80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/7355099c58d1a78adf697f0ca674bd3b109a1352" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c044d5be0d750793dea7db12208168f09839713e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7cc9af1be60b44b58f7e7321703fe23b48d69ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/a/6a147ffae028e9d307657af119942ddc2f983d80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/3/7355099c58d1a78adf697f0ca674bd3b109a1352" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/0/c044d5be0d750793dea7db12208168f09839713e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/7/d7cc9af1be60b44b58f7e7321703fe23b48d69ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_12/theGenericClassChallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_12/theGenericClassChallenge/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -255,6 +267,7 @@
       <workItem from="1703133735202" duration="5442000" />
       <workItem from="1703210993212" duration="4836000" />
       <workItem from="1703410217284" duration="1852000" />
+      <workItem from="1703573009198" duration="405000" />
     </task>
     <servers />
   </component>
