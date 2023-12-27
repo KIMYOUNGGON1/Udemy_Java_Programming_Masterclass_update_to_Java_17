@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_12/lectureTheGenericClassChallenge/Layer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_12/lectureTheGenericClassChallenge/Park.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_12/lectureTheGenericClassChallenge/River.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb21699591578f603b8de28019e19a9aa1ceeeb4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb21699591578f603b8de28019e19a9aa1ceeeb4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/comparing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/comparing/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_12/lectureTheGenericClassChallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_12/lectureTheGenericClassChallenge/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +48,7 @@
     "Application.Test.executor": "Run",
     "Application.section_11.interfaceChallengeLecture.Main.executor": "Run",
     "Application.section_11.theInterfaceChallenge.Test.executor": "Run",
+    "Application.section_12.comparing.Main.executor": "Run",
     "Application.section_12.lectureTheGenericClassChallenge.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -83,26 +81,13 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.section_12.lectureTheGenericClassChallenge.Main">
+  <component name="RunManager" selected="Application.section_12.comparing.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_12.generics.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="section_12.generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_11.interface_lecture.Test" />
-      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section_11.interface_lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,6 +121,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="section_12.comparing.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_12.comparing.Main" />
+      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section_12.comparing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="section_12.lectureTheGenericClassChallenge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_12.lectureTheGenericClassChallenge.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -151,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.section_12.comparing.Main" />
         <item itemvalue="Application.section_12.lectureTheGenericClassChallenge.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.section_11.interfaceChallengeLecture.Main" />
         <item itemvalue="Application.section_11.theInterfaceChallenge.Test" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +264,7 @@
       <workItem from="1703210993212" duration="4836000" />
       <workItem from="1703410217284" duration="1852000" />
       <workItem from="1703573009198" duration="2624000" />
-      <workItem from="1703638875483" duration="321000" />
+      <workItem from="1703638875483" duration="2132000" />
     </task>
     <servers />
   </component>

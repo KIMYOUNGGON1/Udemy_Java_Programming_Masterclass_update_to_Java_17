@@ -107,3 +107,7 @@ i
 9src/section_12/lectureTheGenericClassChallenge/River.java,4/7/470abeb346e1161c1a0b08abe486d45c8929f638
 i
 9src/section_12/lectureTheGenericClassChallenge/Layer.java,1/4/14eec8ee31b9079148ef735794b9aa09add509aa
+R
+"src/section_12/comparing/Main.java,7/6/76932cd5e1286708557143a4301c912290158ab6
+U
+%src/section_12/comparing/Student.java,e/d/ed027233f9e2417a9b0f560bf355166f9bc6cef1
