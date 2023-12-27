@@ -87,3 +87,9 @@ b
 2src/section_12/theGenericClassChallenge/River.java,5/a/5a54e4e6b9f7123666b2efe329821087b7b15de3
 a
 1src/section_12/theGenericClassChallenge/Line.java,c/9/c9bf79fbed248e29259d620a372120dc26b14236
+e
+5src/section_12/theGenericClassChallenge/Location.java,a/8/a845f8f6fc1ff831b3051f002cec984f7e887674
+e
+5src/section_12/theGenericClassChallenge/Mappable.java,f/b/fb4080b7dc3773208bcac96453f48607764ad140
+b
+2src/section_12/theGenericClassChallenge/Point.java,b/a/ba19c7baeac479535495ff15343df5cd8057a65a
