@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/section_12/lectureTheGenericClassChallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/lectureTheGenericClassChallenge/Mappable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/lectureTheGenericClassChallenge/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/2784c8259b74606f0c7f4ec581a018e38c5d7696" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/2784c8259b74606f0c7f4ec581a018e38c5d7696" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f216a8e29ee83f9f235344909962c3dceabfaafc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f216a8e29ee83f9f235344909962c3dceabfaafc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_12/theGenericClassChallenge/Layer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_12/theGenericClassChallenge/Layer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_12/theGenericClassChallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_12/theGenericClassChallenge/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Record" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -258,7 +266,7 @@
       <workItem from="1703133735202" duration="5442000" />
       <workItem from="1703210993212" duration="4836000" />
       <workItem from="1703410217284" duration="1852000" />
-      <workItem from="1703573009198" duration="703000" />
+      <workItem from="1703573009198" duration="1349000" />
     </task>
     <servers />
   </component>

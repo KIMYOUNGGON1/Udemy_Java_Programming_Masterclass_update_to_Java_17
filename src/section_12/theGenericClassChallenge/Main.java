@@ -21,7 +21,7 @@ public class Main {
         Layer<River> riverLayer = new Layer<>(Arrays.asList(mississippiRiver));
 
         // 레이어 렌더링
-//        parkLayer.renderLayer();
-//        riverLayer.renderLayer();
+        parkLayer.renderLayer();
+        riverLayer.renderLayer();
     }
 }

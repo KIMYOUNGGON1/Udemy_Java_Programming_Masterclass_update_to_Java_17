@@ -1,11 +1,2 @@
 
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯•íşşÿÿÿÿ
-`
-java:S1854">Remove this useless assignment to local variable "riverLayer".(Ê¬ãÏıÿÿÿÿ8’İªÊ1
-_
-java:S1854"=Remove this useless assignment to local variable "parkLayer".(Ù·Êöıÿÿÿÿ8’İªÊ1
-P
-java:S1481".Remove this unused "parkLayer" local variable.(Ù·Êöıÿÿÿÿ8”’İªÊ1
-Q
-java:S1481"/Remove this unused "riverLayer" local variable.(Ê¬ãÏıÿÿÿÿ8•’İªÊ1
-X	java:S125"<This block of commented-out lines of code should be removed.(œŠ‰°8•’İªÊ1

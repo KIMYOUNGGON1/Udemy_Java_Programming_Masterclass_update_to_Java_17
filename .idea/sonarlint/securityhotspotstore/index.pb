@@ -93,3 +93,11 @@ e
 5src/section_12/theGenericClassChallenge/Mappable.java,f/b/fb4080b7dc3773208bcac96453f48607764ad140
 b
 2src/section_12/theGenericClassChallenge/Point.java,b/a/ba19c7baeac479535495ff15343df5cd8057a65a
+h
+8src/section_12/lectureTheGenericClassChallenge/Main.java,b/b/bb21699591578f603b8de28019e19a9aa1ceeeb4
+l
+<src/section_12/lectureTheGenericClassChallenge/Mappable.java,4/7/47bc53abb65ab6e1108122dc2fe6a7b2807423f5
+i
+9src/section_12/lectureTheGenericClassChallenge/Point.java,f/7/f714e4a93314dc56faa48381bb22e2f54e1cb9ea
+h
+8src/section_12/lectureTheGenericClassChallenge/Line.java,e/4/e46bcf1adeca801706ad6ad4317f08b73ff93469

@@ -10,7 +10,7 @@ public class Layer<T extends Mappable>{
         this.mappedElements = mappedElements;
     }
 
-    private void renderLayer() {
+    public void renderLayer() {
         for (T elements : mappedElements) {
             elements.render();
         }
