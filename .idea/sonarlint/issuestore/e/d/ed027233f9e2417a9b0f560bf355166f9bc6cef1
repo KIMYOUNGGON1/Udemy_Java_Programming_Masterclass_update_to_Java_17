@@ -1,6 +1,5 @@
 
-L
-java:S3740"/Provide the parametrized type for this generic.(ñ¥š‹8ƒäĞÇÊ1
 v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥©ôî8•ûÇÇÊ1
-v
-java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‡ÕÔÏ8í«ÑÇÊ1
+{
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Î²›øÿÿÿÿ8í«ÑÇÊ1
+X	java:S125"<This block of commented-out lines of code should be removed.(ı¬æØ8ßËıÓÊ1
