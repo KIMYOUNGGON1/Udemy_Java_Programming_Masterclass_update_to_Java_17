@@ -101,3 +101,9 @@ i
 9src/section_12/lectureTheGenericClassChallenge/Point.java,f/7/f714e4a93314dc56faa48381bb22e2f54e1cb9ea
 h
 8src/section_12/lectureTheGenericClassChallenge/Line.java,e/4/e46bcf1adeca801706ad6ad4317f08b73ff93469
+h
+8src/section_12/lectureTheGenericClassChallenge/Park.java,b/b/bb4fff7895defe7bcfb04dcb15c144d2d264c00b
+i
+9src/section_12/lectureTheGenericClassChallenge/River.java,4/7/470abeb346e1161c1a0b08abe486d45c8929f638
+i
+9src/section_12/lectureTheGenericClassChallenge/Layer.java,1/4/14eec8ee31b9079148ef735794b9aa09add509aa
