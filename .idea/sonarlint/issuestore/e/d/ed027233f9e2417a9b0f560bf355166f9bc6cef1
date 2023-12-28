@@ -1,5 +1,9 @@
 
 v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥©ôî8•ûÇÇÊ1
+t
+java:S3008"RRename this field "LAST_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÎûÊøÿÿÿÿ8Ûˆ‹îÊ1
 {
-java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Î²›øÿÿÿÿ8í«ÑÇÊ1
-X	java:S125"<This block of commented-out lines of code should be removed.(ı¬æØ8ßËıÓÊ1
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Î²›øÿÿÿÿ8í«ÑÇÊ1
+u
+java:S1158"XCall the static method Integer.compare(...) instead of instantiating a temporary object.(‹À±8‹ï’îÊ1
+X	java:S125"<This block of commented-out lines of code should be removed.(ı¬æØ8ßËıÓÊ1

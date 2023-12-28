@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_12/comparing/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_12/comparing/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/comparing/StudentGPAComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/genericsExtra/LPAStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/genericsExtra/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/genericsExtra/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76932cd5e1286708557143a4301c912290158ab6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76932cd5e1286708557143a4301c912290158ab6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed027233f9e2417a9b0f560bf355166f9bc6cef1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed027233f9e2417a9b0f560bf355166f9bc6cef1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_12/comparing/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_12/comparing/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_12/comparing/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_12/comparing/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +55,14 @@
     "Application.section_11.interfaceChallengeLecture.Main.executor": "Run",
     "Application.section_11.theInterfaceChallenge.Test.executor": "Run",
     "Application.section_12.comparing.Main.executor": "Run",
+    "Application.section_12.genericsExtra.Main.executor": "Run",
     "Application.section_12.lectureTheGenericClassChallenge.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/uniess/YG_Personal/Udemy_Java_Programming_Masterclass_update_to_Java_17/src/section_12",
+    "last_opened_file_path": "/Users/uniess/YG_Personal/Udemy_Java_Programming_Masterclass_update_to_Java_17",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -81,7 +88,7 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.section_12.comparing.Main">
+  <component name="RunManager" selected="Application.section_12.genericsExtra.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_12.generics.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -108,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="section_11.theInterfaceChallenge.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_11.theInterfaceChallenge.Test" />
+    <configuration name="section_12.comparing.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_12.comparing.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_11.theInterfaceChallenge.*" />
+          <option name="PATTERN" value="section_12.comparing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="section_12.comparing.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_12.comparing.Main" />
+    <configuration name="section_12.genericsExtra.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_12.genericsExtra.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_12.comparing.*" />
+          <option name="PATTERN" value="section_12.genericsExtra.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.section_12.genericsExtra.Main" />
         <item itemvalue="Application.section_12.comparing.Main" />
         <item itemvalue="Application.section_12.lectureTheGenericClassChallenge.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.section_11.interfaceChallengeLecture.Main" />
-        <item itemvalue="Application.section_11.theInterfaceChallenge.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -265,6 +272,8 @@
       <workItem from="1703410217284" duration="1852000" />
       <workItem from="1703573009198" duration="2624000" />
       <workItem from="1703638875483" duration="2132000" />
+      <workItem from="1703667326824" duration="281000" />
+      <workItem from="1703721091495" duration="2952000" />
     </task>
     <servers />
   </component>

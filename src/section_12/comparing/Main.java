@@ -1,6 +1,7 @@
 package section_12.comparing;
 
 import java.util.Arrays;
+import java.util.Comparator;
 
 public class Main {
     public static void main(String[] args) {
@@ -39,6 +40,10 @@ public class Main {
         Arrays.sort(students);
         System.out.println(Arrays.toString(students));
 
-        System.out.println("result = " + tim.compareTo("Mary"));
+        System.out.println("result = " + tim.compareTo(new Student("TIM")));
+
+        Comparator<Student> gpaSorter = new StudentGPAComparator();
+        Arrays.sort(students, gpaSorter.reversed());
+        System.out.println(Arrays.toString(students));
     }
 }
