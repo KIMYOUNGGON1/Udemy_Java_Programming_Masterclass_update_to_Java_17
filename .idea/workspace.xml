@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/section_12/genericsExtra/QueryItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_12/genericsExtra/QueryList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/597d639bc14a4b79a0da39076c1643ba706d7638" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/597d639bc14a4b79a0da39076c1643ba706d7638" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a33a54a238ddb7896e0f35eec7355711a0fb7ad0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a33a54a238ddb7896e0f35eec7355711a0fb7ad0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/section_12/genericsExtra/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_12/genericsExtra/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_12/genericsExtra/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_12/genericsExtra/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -265,7 +270,7 @@
       <workItem from="1703573009198" duration="2624000" />
       <workItem from="1703638875483" duration="2132000" />
       <workItem from="1703667326824" duration="281000" />
-      <workItem from="1703721091495" duration="4780000" />
+      <workItem from="1703721091495" duration="5561000" />
     </task>
     <servers />
   </component>

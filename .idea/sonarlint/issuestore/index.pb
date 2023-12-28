@@ -121,3 +121,9 @@ V
 &src/section_12/genericsExtra/Main.java,a/3/a33a54a238ddb7896e0f35eec7355711a0fb7ad0
 \
 ,src/section_12/genericsExtra/LPAStudent.java,6/4/6438ec67bd90d5c8013e1091b7e1c6fcb0a6e42a
+[
++src/section_12/genericsExtra/QueryItem.java,8/b/8be96751b26a203d5560480613b358611e83e67e
+[
++src/section_12/genericsExtra/QueryList.java,3/4/3408d1743d9952866f16ded8b6ef85584174c27e
+Z
+*src/section_12/genericsExtra/Employee.java,d/7/d781f8ab7db161f7ccd50415869b9663e1b1eb1d
