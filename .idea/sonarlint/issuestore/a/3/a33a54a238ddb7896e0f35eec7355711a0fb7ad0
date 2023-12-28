@@ -1,6 +1,14 @@
 
-Q
-java:S3740"/Provide the parametrized type for this generic.(£°öøÿÿÿÿÿ8¼‚ƒğÊ1
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ’ì
-G	java:S106"+Replace this use of System.out by a logger.(„íí8ï‡İïÊ1
-L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ğ‡İïÊ1
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥‘‹éıÿÿÿÿ8ˆœığÊ1
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(öúéğ8Ì‚€ñÊ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ’ì8ƒªÊğÊ1
+X	java:S125"<This block of commented-out lines of code should be removed.(øİÊ„8‹ªÊğÊ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ø¾ˆÿşÿÿÿÿ8ºüğÊ1
+G	java:S106!"+Replace this use of System.out by a logger.(„íí8ªÊğÊ1
+L	java:S106#"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ªÊğÊ1
+F	java:S106)"+Replace this use of System.out by a logger.(‹ÆºW8üúğÊ1
+L	java:S106+"+Replace this use of System.out by a logger.(Í¼Åışÿÿÿÿ8ıúğÊ1
+W	java:S1250"<This block of commented-out lines of code should be removed.(‘Ôár8ï¶óğÊ1
+]	java:S125<"<This block of commented-out lines of code should be removed.(ù‹‰£ıÿÿÿÿ8ªÊğÊ1

@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_12/comparing/StudentGPAComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_12/genericsExtra/LPAStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_12/genericsExtra/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_12/genericsExtra/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76932cd5e1286708557143a4301c912290158ab6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76932cd5e1286708557143a4301c912290158ab6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed027233f9e2417a9b0f560bf355166f9bc6cef1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed027233f9e2417a9b0f560bf355166f9bc6cef1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a33a54a238ddb7896e0f35eec7355711a0fb7ad0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a33a54a238ddb7896e0f35eec7355711a0fb7ad0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_12/comparing/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_12/comparing/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_12/comparing/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_12/comparing/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_12/genericsExtra/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_12/genericsExtra/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,7 +265,7 @@
       <workItem from="1703573009198" duration="2624000" />
       <workItem from="1703638875483" duration="2132000" />
       <workItem from="1703667326824" duration="281000" />
-      <workItem from="1703721091495" duration="2952000" />
+      <workItem from="1703721091495" duration="4780000" />
     </task>
     <servers />
   </component>
