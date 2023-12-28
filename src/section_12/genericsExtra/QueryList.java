@@ -3,12 +3,7 @@ package section_12.genericsExtra;
 import java.util.ArrayList;
 import java.util.List;
 
-public class QueryList <T extends Student & QueryItem> {
-    private List<T> items;
-
-    public QueryList(List<T> items) {
-        this.items = items;
-    }
+public class QueryList <T extends Student & QueryItem> extends ArrayList<T>{
 
     public static <S extends QueryItem> List<S> getMatches(List<S> items, String field, String value) {
 
@@ -24,7 +19,7 @@ public class QueryList <T extends Student & QueryItem> {
     public List<T> getMatches(String field, String value) {
 
         List<T> matches = new ArrayList<>();
-        for (var item : items) {
+        for (var item : this) {
             if (item.matchFieldValue(field, value)) {
                 matches.add(item);
             }

@@ -2,10 +2,11 @@ package section_12.genericsExtra;
 
 import java.util.Random;
 
-public class Student implements QueryItem{
+public class Student implements QueryItem, Comparable<Student>{
 
     private String name;
     private String course;
+    private int studentId;
     private int yearStarted;
 
     protected static Random random = new Random();
@@ -39,5 +40,10 @@ public class Student implements QueryItem{
             case "YEARSTARTED" -> yearStarted == (Integer.parseInt(value));
             default -> false;
         };
+    }
+
+    @Override
+    public int compareTo(Student o) {
+        return Integer.compare(this.studentId, other.studentId);
     }
 }
