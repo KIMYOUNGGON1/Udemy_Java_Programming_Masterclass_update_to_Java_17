@@ -1,4 +1,6 @@
 
 v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ’ì8şÇñÊ1
-{
-java:S1210."YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Î²›øÿÿÿÿ8‚ïÆöÊ1
+t
+java:S3008"RRename this field "LAST_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅôÎ›ûÿÿÿÿ8ù¬¤¢Ë1
+v
+java:S12100"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¯º»ô8‚ïÆöÊ1

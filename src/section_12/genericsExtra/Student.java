@@ -4,9 +4,10 @@ import java.util.Random;
 
 public class Student implements QueryItem, Comparable<Student>{
 
+    private static int LAST_ID = 10_000;
+    private int studentId;
     private String name;
     private String course;
-    private int studentId;
     private int yearStarted;
 
     protected static Random random = new Random();
@@ -19,11 +20,12 @@ public class Student implements QueryItem, Comparable<Student>{
         name = firstNames[random.nextInt(5)] + " " + (char) lastNameIndex;
         course = courses[random.nextInt(3)];
         yearStarted = random.nextInt(2018, 2023);
+        studentId = LAST_ID++;
     }
 
     @Override
     public String toString() {
-        return "%-15s %-15s %d".formatted(name, course, yearStarted);
+        return "%d %-15s %-15s %d".formatted(studentId, name, course, yearStarted);
     }
 
     public int getYearStarted() {
@@ -43,7 +45,7 @@ public class Student implements QueryItem, Comparable<Student>{
     }
 
     @Override
-    public int compareTo(Student o) {
+    public int compareTo(Student other) {
         return Integer.compare(this.studentId, other.studentId);
     }
 }

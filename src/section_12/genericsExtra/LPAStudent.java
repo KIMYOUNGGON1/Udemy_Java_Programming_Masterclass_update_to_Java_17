@@ -4,12 +4,21 @@ public class LPAStudent extends Student {
     private double percentComplete;
 
     public LPAStudent() {
-        percentComplete = random.nextDouble(0, 100.001);
+        super();
+        percentComplete = random.nextDouble() * 100;
+    }
+
+    @Override
+    public boolean matchFieldValue(String fieldName, String value) {
+        if ("percentComplete".equalsIgnoreCase(fieldName)) {
+            return percentComplete <= Double.parseDouble(value);
+        }
+        return super.matchFieldValue(fieldName, value);
     }
 
     @Override
     public String toString() {
-        return "%s %8.1f%%".formatted(super.toString(), percentComplete);
+        return super.toString() + String.format("%8.1f%%", percentComplete);
     }
 
     public double getPercentComplete() {

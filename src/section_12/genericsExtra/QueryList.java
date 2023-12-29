@@ -5,6 +5,15 @@ import java.util.List;
 
 public class QueryList <T extends Student & QueryItem> extends ArrayList<T>{
 
+
+    public QueryList() {
+
+    }
+
+    public QueryList(List<T> items) {
+        super(items);
+    }
+
     public static <S extends QueryItem> List<S> getMatches(List<S> items, String field, String value) {
 
         List<S> matches = new ArrayList<>();
@@ -16,9 +25,9 @@ public class QueryList <T extends Student & QueryItem> extends ArrayList<T>{
         return matches;
     }
 
-    public List<T> getMatches(String field, String value) {
+    public QueryList<T> getMatches(String field, String value) {
 
-        List<T> matches = new ArrayList<>();
+        QueryList<T> matches = new QueryList<>();
         for (var item : this) {
             if (item.matchFieldValue(field, value)) {
                 matches.add(item);

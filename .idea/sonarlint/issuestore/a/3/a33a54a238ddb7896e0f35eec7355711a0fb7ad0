@@ -1,15 +1,13 @@
 
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥‘‹éıÿÿÿÿ8ƒ·ùñÊ1
-v
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(öúéğ8„·ùñÊ1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ’ì8…·ùñÊ1
-X	java:S125"<This block of commented-out lines of code should be removed.(øİÊ„8•·ùñÊ1
-]	java:S125"<This block of commented-out lines of code should be removed.(ø¾ˆÿşÿÿÿÿ8–·ùñÊ1
-X	java:S125&"<This block of commented-out lines of code should be removed.(ÈÜ‚Á8¬ƒûñÊ1
-G	java:S106,"+Replace this use of System.out by a logger.(„íí8™·ùñÊ1
-L	java:S106."+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8š·ùñÊ1
-F	java:S1064"+Replace this use of System.out by a logger.(‹ÆºW8š·ùñÊ1
-L	java:S1066"+Replace this use of System.out by a logger.(Í¼Åışÿÿÿÿ8›·ùñÊ1
-W	java:S125;"<This block of commented-out lines of code should be removed.(‘Ôár8›·ùñÊ1
-]	java:S125G"<This block of commented-out lines of code should be removed.(ù‹‰£ıÿÿÿÿ8œ·ùñÊ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ’ì8©¹Â¢Ë1
+G	java:S106"+Replace this use of System.out by a logger.(’ç•º8º¹Â¢Ë1
+G	java:S106"+Replace this use of System.out by a logger.(‡ÓÜš8»¹Â¢Ë1
+G	java:S106"+Replace this use of System.out by a logger.(’ç•º8¼¹Â¢Ë1
+G	java:S106$"+Replace this use of System.out by a logger.(„íí8³áÎ¢Ë1
+]	java:S125("<This block of commented-out lines of code should be removed.(ûí´×üÿÿÿÿ8½¹Â¢Ë1
+W	java:S125:"<This block of commented-out lines of code should be removed.(‘Ôár8½¹Â¢Ë1
+]	java:S125F"<This block of commented-out lines of code should be removed.(ù‹‰£ıÿÿÿÿ8½¹Â¢Ë1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8 ŸÏ¢Ë1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8 ŸÏ¢Ë1
