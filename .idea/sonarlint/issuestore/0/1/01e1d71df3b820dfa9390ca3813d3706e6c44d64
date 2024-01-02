@@ -1,3 +1,5 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óå½¢şÿÿÿÿ8”‡®¼Ì1
-L	java:S106"+Replace this use of System.out by a logger.(ş­Øşÿÿÿÿ8‡®¼Ì1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óå½¢şÿÿÿÿ8É½Ÿ¾Ì1
+L	java:S106"+Replace this use of System.out by a logger.(ş­Øşÿÿÿÿ8Õ½Ÿ¾Ì1
+L
+java:S3985D"*Remove this unused private "Burger" class.(öÃ¬ÿÿÿÿÿ8Ù½Ÿ¾Ì1

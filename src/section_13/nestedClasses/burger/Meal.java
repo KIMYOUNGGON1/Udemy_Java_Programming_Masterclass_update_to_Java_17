@@ -1,5 +1,9 @@
 package section_13.nestedClasses.burger;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
 public class Meal {
 
     private double price = 5.0;
@@ -54,6 +58,39 @@ public class Meal {
 
         private static double getPrice(double price, double rate) {
             return price * rate;
+        }
+
+        protected double getPrice() {
+            return price;
+        }
+    }
+
+    private class Burger extends Item {
+        private List<Item> toppings = new ArrayList<>();
+
+        public Burger(String name, double price) {
+            super(name, "Burger", price);
+        }
+
+        public void addToppings(Item... newTopping) {
+            Collections.addAll(toppings, newTopping);
+        }
+
+        @Override
+        public String toString() {
+            StringBuilder result = new StringBuilder(super.toString());
+            for (Item topping : toppings) {
+                result.append("\n Topping: ").append(topping.toString());
+            }
+            return result.toString();
+        }
+
+        public double calculateTotalPrice() {
+            double total = this.getPrice();
+            for (Item topping : toppings) {
+                total += topping.price;
+            }
+            return Item.getPrice(total, conversionRate);
         }
     }
 }
