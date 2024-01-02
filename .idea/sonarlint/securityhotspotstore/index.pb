@@ -131,3 +131,7 @@ g
 7src/section_12/genericsExtra/LPAStudentPComparator.java,3/3/33c2fe15b732e4ce37983916147ab3bda9cc9a10
 f
 6src/section_12/genericsExtra/LPAStudentComparator.java,7/9/79e6406f2b5919749c8b4e02950c8a8639162868
+]
+-src/section_13/nestedClasses/burger/Meal.java,0/1/01e1d71df3b820dfa9390ca3813d3706e6c44d64
+^
+.src/section_13/nestedClasses/burger/Store.java,6/f/6f8ad9bfaf5f8d98f40018e4422af5052cc3e062
