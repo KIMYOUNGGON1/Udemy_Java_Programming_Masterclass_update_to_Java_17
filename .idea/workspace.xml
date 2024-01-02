@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/01e1d71df3b820dfa9390ca3813d3706e6c44d64" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/01e1d71df3b820dfa9390ca3813d3706e6c44d64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_13/nestedClasses/burger/MealLecture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f8ad9bfaf5f8d98f40018e4422af5052cc3e062" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f8ad9bfaf5f8d98f40018e4422af5052cc3e062" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_13/nestedClasses/burger/Meal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_13/nestedClasses/burger/Meal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_13/nestedClasses/burger/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_13/nestedClasses/burger/Store.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +78,7 @@
       <recent name="$PROJECT_DIR$/src/section_12/generics" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="section_13.nestedClasses.burger" />
       <recent name="section_12.generics" />
       <recent name="section_11.lectureAbstractClassChallenge" />
       <recent name="section_11.abstractClasses" />
