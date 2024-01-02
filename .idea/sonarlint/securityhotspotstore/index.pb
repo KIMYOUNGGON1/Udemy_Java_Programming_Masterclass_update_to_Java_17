@@ -137,3 +137,9 @@ f
 .src/section_13/nestedClasses/burger/Store.java,6/f/6f8ad9bfaf5f8d98f40018e4422af5052cc3e062
 d
 4src/section_13/nestedClasses/burger/MealLecture.java,3/e/3ede615a64b34ae14225ec489f2a888e04c6d526
+]
+-src/section_13/innerClassChallenge/Album.java,b/1/b1d5c763e9fa08ba0abbfde56fddbd363ed62726
+\
+,src/section_13/innerClassChallenge/Song.java,b/4/b47b6b20232cb5f28b32ff1c3cce5a1a0a9767f4
+\
+,src/section_13/innerClassChallenge/Main.java,1/9/19413bdf5abc607d6c4ebc0462775d92e10f735b

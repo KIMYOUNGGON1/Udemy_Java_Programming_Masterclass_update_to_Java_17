@@ -1,0 +1,14 @@
+
+‹
+java:S1319"iThe type of "playList" should be an interface such as "List" rather than the implementation "LinkedList".(à·Ç©úÿÿÿÿ8ĞáÆÌ1
+‹
+java:S1319 "iThe type of "playList" should be an interface such as "List" rather than the implementation "LinkedList".(Íª”Éÿÿÿÿÿ8¹æáÆÌ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×·‡÷8ñìàÆÌ1
+G	java:S106"+Replace this use of System.out by a logger.(Í—àš8öìàÆÌ1
+L	java:S106&"+Replace this use of System.out by a logger.(«¼‚çûÿÿÿÿ8ÁæáÆÌ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ŞÚ†ÇÌ1
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8ùìàÆÌ1
+L
+java:S1068	"*Remove this unused "artist" private field.(†ğÖŠıÿÿÿÿ8ùìàÆÌ1

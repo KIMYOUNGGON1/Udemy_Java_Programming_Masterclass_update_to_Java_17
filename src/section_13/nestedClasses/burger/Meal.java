@@ -59,10 +59,6 @@ public class Meal {
         private static double getPrice(double price, double rate) {
             return price * rate;
         }
-
-        protected double getPrice() {
-            return price;
-        }
     }
 
     private class Burger extends Item {
@@ -86,7 +82,7 @@ public class Meal {
         }
 
         public double calculateTotalPrice() {
-            double total = this.getPrice();
+            double total = super.price;
             for (Item topping : toppings) {
                 total += topping.price;
             }
