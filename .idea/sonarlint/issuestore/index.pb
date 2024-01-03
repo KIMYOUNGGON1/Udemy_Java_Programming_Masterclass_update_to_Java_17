@@ -147,3 +147,7 @@ R
 "src/section_13/runMethos/Main.java,b/1/b1020f81e664fcfc7836d7cc5eb191f381a9feaf
 a
 1src/section_13/nestedClasses/domain/Employee.java,3/9/392b0ddac149ee804275f4d747b4de72af28257e
+o
+?src/section_13/theLocalAndAnonymousClassChallenge/Employee.java,c/6/c677ce60985442186617850b12304c2d3cedec63
+k
+;src/section_13/theLocalAndAnonymousClassChallenge/Main.java,4/2/423118de647c8cd0740de752a3337030acd180f6

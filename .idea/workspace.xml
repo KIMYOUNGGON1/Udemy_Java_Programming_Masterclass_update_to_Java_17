@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_13/runMethos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_13/theLocalAndAnonymousClassChallenge/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_13/theLocalAndAnonymousClassChallenge/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
     "Application.section_12.lectureTheGenericClassChallenge.Main.executor": "Run",
     "Application.section_13.nestedClasses.Main.executor": "Run",
     "Application.section_13.runMethos.Main.executor": "Run",
+    "Application.section_13.theLocalAndAnonymousClassChallenge.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -85,7 +86,7 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.section_13.runMethos.Main">
+  <component name="RunManager" selected="Application.section_13.theLocalAndAnonymousClassChallenge.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_13.innerClassChallenge.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -105,19 +106,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="section_13.nestedClasses.burger.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="section_12.genericsExtra.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_12.genericsExtra.Main" />
-      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section_12.genericsExtra.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,13 +139,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="section_13.theLocalAndAnonymousClassChallenge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_13.theLocalAndAnonymousClassChallenge.Main" />
+      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section_13.theLocalAndAnonymousClassChallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.section_13.theLocalAndAnonymousClassChallenge.Main" />
         <item itemvalue="Application.section_13.runMethos.Main" />
         <item itemvalue="Application.section_13.nestedClasses.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Store" />
-        <item itemvalue="Application.section_12.genericsExtra.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +274,7 @@
       <workItem from="1703721091495" duration="7569000" />
       <workItem from="1703830634404" duration="1000" />
       <workItem from="1703830648813" duration="1208000" />
-      <workItem from="1704239763940" duration="2609000" />
+      <workItem from="1704239763940" duration="4597000" />
     </task>
     <servers />
   </component>
