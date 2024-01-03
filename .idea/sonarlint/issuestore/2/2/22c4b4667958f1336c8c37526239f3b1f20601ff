@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãŒ“¢úÿÿÿÿ8şÉõåÌ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Â×öõıÿÿÿÿ8ÊõåÌ1
+L	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8‘ÊõåÌ1
+L	java:S106"+Replace this use of System.out by a logger.(¬‚‚Éúÿÿÿÿ8‘ÊõåÌ1
+L	java:S106+"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8“ÊõåÌ1
+G	java:S106."+Replace this use of System.out by a logger.(¤Ù™‰8“ÊõåÌ1
+{
+java:S1210H"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ø«˜¤ÿÿÿÿÿ8”ÊõåÌ1
+G	java:S106W"+Replace this use of System.out by a logger.(ÂûıÄ8˜ÊõåÌ1
+q
+java:S1128"ORemove this unused import 'section_13.nestedClasses.domain.EmployeeComparator'.(ô°şÿÿÿÿ8™ÊõåÌ1
