@@ -30,7 +30,7 @@ public class Main {
         class MyEmployee {
             Employee containedEmployee;
             int yearsWorked;
-           String fullName;
+            String fullName;
 
             public MyEmployee(Employee containedEmployee) {
                 this.containedEmployee = containedEmployee;
