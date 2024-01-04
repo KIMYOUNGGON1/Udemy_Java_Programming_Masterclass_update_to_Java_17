@@ -1,23 +1,40 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì«·ôøÿÿÿÿ8ğ„»’Í1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì«·ôøÿÿÿÿ8¾…÷–Í1
 X
-java:S1854";Remove this useless assignment to local variable "result3".(…Òçö8ı„»’Í1
+java:S1854 ";Remove this useless assignment to local variable "result3".(…Òçö8É…÷–Í1
 X
-java:S1854";Remove this useless assignment to local variable "result2".(Ç®’8ı„»’Í1
+java:S1854";Remove this useless assignment to local variable "result2".(Ç®’8É…÷–Í1
 W
-java:S1854":Remove this useless assignment to local variable "result".(•ªš8ı„»’Í1
-L	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8ÿ„»’Í1
-L	java:S106"+Replace this use of System.out by a logger.(øò•µùÿÿÿÿ8ÿ„»’Í1
+java:S1854":Remove this useless assignment to local variable "result".(•ªš8É…÷–Í1
+L	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8Ë…÷–Í1
+L	java:S106"+Replace this use of System.out by a logger.(øò•µùÿÿÿÿ8Ë…÷–Í1
 b
-java:S1612"@Replace this lambda with method reference 'System.out::println'.(¸µ‘–ıÿÿÿÿ8ÿ„»’Í1
-L	java:S106"+Replace this use of System.out by a logger.(¸µ‘–ıÿÿÿÿ8€…»’Í1
-L	java:S106"+Replace this use of System.out by a logger.(øò•µùÿÿÿÿ8€…»’Í1
-L	java:S106"+Replace this use of System.out by a logger.(±Ç¸®şÿÿÿÿ8…»’Í1
-L	java:S106"+Replace this use of System.out by a logger.(øò•µùÿÿÿÿ8…»’Í1
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(¸µ‘–ıÿÿÿÿ8Ë…÷–Í1
+L	java:S106"+Replace this use of System.out by a logger.(¸µ‘–ıÿÿÿÿ8Ì…÷–Í1
+L	java:S106"+Replace this use of System.out by a logger.(øò•µùÿÿÿÿ8Ì…÷–Í1
+L	java:S106"+Replace this use of System.out by a logger.(±Ç¸®şÿÿÿÿ8Í…÷–Í1
+L	java:S106"+Replace this use of System.out by a logger.(øò•µùÿÿÿÿ8Í…÷–Í1
 H
-java:S1481"+Remove this unused "result" local variable.(•ªš8‚…»’Í1
+java:S1481"+Remove this unused "result" local variable.(•ªš8Í…÷–Í1
 I
-java:S1481",Remove this unused "result2" local variable.(Ç®’8‚…»’Í1
+java:S1481",Remove this unused "result2" local variable.(Ç®’8Î…÷–Í1
 I
-java:S1481",Remove this unused "result3" local variable.(…Òçö8ƒ…»’Í1
-G	java:S106$"+Replace this use of System.out by a logger.(î¿ç„8„…»’Í1
+java:S1481 ",Remove this unused "result3" local variable.(…Òçö8Î…÷–Í1
+G	java:S106)"+Replace this use of System.out by a logger.(Ëó¤œ8Ï…÷–Í1
+G	java:S106,"+Replace this use of System.out by a logger.(¦áÓÁ8Ï…÷–Í1
+L	java:S1061"+Replace this use of System.out by a logger.(š‚¥½ÿÿÿÿÿ8Ğ…÷–Í1
+L	java:S1063"+Replace this use of System.out by a logger.(š‚¥½ÿÿÿÿÿ8ÿ³ı–Í1
+L	java:S1066"+Replace this use of System.out by a logger.(Ú«äÿÿÿÿÿ8¼úƒ—Í1
+L	java:S1068"+Replace this use of System.out by a logger.(øò•µùÿÿÿÿ8ĞÅ…—Í1
+]
+java:S1612;"@Replace this lambda with method reference 'System.out::println'.(¯õ¤ö8¯©Œ—Í1
+G	java:S106;"+Replace this use of System.out by a logger.(¯õ¤ö8°©Œ—Í1
+L	java:S106="+Replace this use of System.out by a logger.(øò•µùÿÿÿÿ8ûê—Í1
+]
+java:S1612?"@Replace this lambda with method reference 'System.out::println'.(¯õ¤ö8Úƒ‘—Í1
+G	java:S106?"+Replace this use of System.out by a logger.(¯õ¤ö8Úƒ‘—Í1
+L	java:S106A"+Replace this use of System.out by a logger.(øò•µùÿÿÿÿ8Ûƒ‘—Í1
+]
+java:S1612C"@Replace this lambda with method reference 'System.out::println'.(¯õ¤ö8‚”—Í1
+G	java:S106C"+Replace this use of System.out by a logger.(¯õ¤ö8ÚÃ’—Í1
+G	java:S106H"+Replace this use of System.out by a logger.(î¿ç„8’‚”—Í1

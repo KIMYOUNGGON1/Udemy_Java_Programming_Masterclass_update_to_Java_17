@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_14/lambdaExpressions/Operation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/2487a370471659485f4b898fa0b0995830e10df6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/2487a370471659485f4b898fa0b0995830e10df6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/section_14/lambdaExpressions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_14/lambdaExpressions/Main.java" afterDir="false" />
     </list>
@@ -280,7 +277,7 @@
       <workItem from="1703830648813" duration="1208000" />
       <workItem from="1704239763940" duration="5895000" />
       <workItem from="1704271350807" duration="1035000" />
-      <workItem from="1704325890472" duration="3844000" />
+      <workItem from="1704325890472" duration="5867000" />
     </task>
     <servers />
   </component>
