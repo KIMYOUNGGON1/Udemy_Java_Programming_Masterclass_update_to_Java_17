@@ -41,14 +41,17 @@ public class Main {
         var comparatorMixed = new EnhancedComparator<Person>() {
             @Override
             public int secondLevel(Person o1, Person o2) {
-                return 0;
+                return o1.firstName().compareTo(o2.firstName());
             }
 
             @Override
             public int compare(Person o1, Person o2) {
-                return 0;
+                int result = o1.lastName().compareTo(o2.firstName());
+                return (result == 0 ? secondLevel(o1, o2) : result);
             }
         };
 
+        people.sort(comparatorMixed);
+        System.out.println(people);
     }
 }

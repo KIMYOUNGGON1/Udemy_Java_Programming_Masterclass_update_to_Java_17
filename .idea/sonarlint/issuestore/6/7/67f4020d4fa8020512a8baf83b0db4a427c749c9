@@ -1,13 +1,10 @@
 
 D
-java:S1604"(Make this anonymous inner class a lambda(ñúv8ºå±ôÌ1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğ†Ò8»å±ôÌ1
-`
-java:S1854)"CRemove this useless assignment to local variable "comparatorMixed".(û½ÿ£8Âå±ôÌ1
+java:S1604"(Make this anonymous inner class a lambda(ñúv8’™ÚÍ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğ†Ò8•™ÚÍ1
 b
-java:S1854"FRemove this useless assignment to local variable "comparatorLastName".(ñúv8Âå±ôÌ1
+java:S1854"FRemove this useless assignment to local variable "comparatorLastName".(ñúv8£™ÚÍ1
 S
-java:S1481"7Remove this unused "comparatorLastName" local variable.(ñúv8Åå±ôÌ1
-L	java:S106#"+Replace this use of System.out by a logger.(éïòøÿÿÿÿ8Æå±ôÌ1
-Q
-java:S1481)"4Remove this unused "comparatorMixed" local variable.(û½ÿ£8Çå±ôÌ1
+java:S1481"7Remove this unused "comparatorLastName" local variable.(ñúv8ª™ÚÍ1
+L	java:S106#"+Replace this use of System.out by a logger.(éïòøÿÿÿÿ8¬™ÚÍ1
+L	java:S1067"+Replace this use of System.out by a logger.(éïòøÿÿÿÿ8Ğ¬ßÍ1
