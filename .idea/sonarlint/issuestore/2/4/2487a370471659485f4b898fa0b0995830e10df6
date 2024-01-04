@@ -1,9 +1,23 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì«·ôøÿÿÿÿ8á ¶‘Í1
-L	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8ó ¶‘Í1
-L	java:S106"+Replace this use of System.out by a logger.(øò•µùÿÿÿÿ8ô ¶‘Í1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì«·ôøÿÿÿÿ8ğ„»’Í1
+X
+java:S1854";Remove this useless assignment to local variable "result3".(…Òçö8ı„»’Í1
+X
+java:S1854";Remove this useless assignment to local variable "result2".(Ç®’8ı„»’Í1
+W
+java:S1854":Remove this useless assignment to local variable "result".(•ªš8ı„»’Í1
+L	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8ÿ„»’Í1
+L	java:S106"+Replace this use of System.out by a logger.(øò•µùÿÿÿÿ8ÿ„»’Í1
 b
-java:S1612"@Replace this lambda with method reference 'System.out::println'.(¸µ‘–ıÿÿÿÿ8õ ¶‘Í1
-L	java:S106"+Replace this use of System.out by a logger.(¸µ‘–ıÿÿÿÿ8÷ ¶‘Í1
-L	java:S106"+Replace this use of System.out by a logger.(øò•µùÿÿÿÿ8ø ¶‘Í1
-L	java:S106"+Replace this use of System.out by a logger.(±Ç¸®şÿÿÿÿ8Æ½¶‘Í1
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(¸µ‘–ıÿÿÿÿ8ÿ„»’Í1
+L	java:S106"+Replace this use of System.out by a logger.(¸µ‘–ıÿÿÿÿ8€…»’Í1
+L	java:S106"+Replace this use of System.out by a logger.(øò•µùÿÿÿÿ8€…»’Í1
+L	java:S106"+Replace this use of System.out by a logger.(±Ç¸®şÿÿÿÿ8…»’Í1
+L	java:S106"+Replace this use of System.out by a logger.(øò•µùÿÿÿÿ8…»’Í1
+H
+java:S1481"+Remove this unused "result" local variable.(•ªš8‚…»’Í1
+I
+java:S1481",Remove this unused "result2" local variable.(Ç®’8‚…»’Í1
+I
+java:S1481",Remove this unused "result3" local variable.(…Òçö8ƒ…»’Í1
+G	java:S106$"+Replace this use of System.out by a logger.(î¿ç„8„…»’Í1

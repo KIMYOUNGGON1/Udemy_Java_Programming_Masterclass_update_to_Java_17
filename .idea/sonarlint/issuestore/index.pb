@@ -159,3 +159,5 @@ T
 $src/section_14/lambdaIntro/Main.java,6/7/67f4020d4fa8020512a8baf83b0db4a427c749c9
 Z
 *src/section_14/lambdaExpressions/Main.java,2/4/2487a370471659485f4b898fa0b0995830e10df6
+_
+/src/section_14/lambdaExpressions/Operation.java,4/1/4145e99a43c4eda58d6b1b4d6735ba0b1c6f69a8
