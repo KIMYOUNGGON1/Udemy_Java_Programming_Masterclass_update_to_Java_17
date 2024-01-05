@@ -1,0 +1,40 @@
+
+~
+java:S1192"bDefine a constant instead of duplicating this literal "Let's split this up into an array" 3 times.(”®¦/8†é»Í1
+m	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®›‘8‡é»Í1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òöóŞ8ˆé»Í1
+L	java:S106"+Replace this use of System.out by a logger.(Ö¯¯üÿÿÿÿ8“é»Í1
+L	java:S106"+Replace this use of System.out by a logger.(øò•µùÿÿÿÿ8”é»Í1
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(éŠ°‘üÿÿÿÿ8•é»Í1
+L	java:S106"+Replace this use of System.out by a logger.(éŠ°‘üÿÿÿÿ8•é»Í1
+L	java:S106"+Replace this use of System.out by a logger.(øò•µùÿÿÿÿ8•é»Í1
+N
+java:S1602!",Remove useless curly braces around statement(ù»Â…ûÿÿÿÿ8•é»Í1
+L	java:S106""+Replace this use of System.out by a logger.(î™ø÷şÿÿÿÿ8–é»Í1
+G	java:S106("+Replace this use of System.out by a logger.(›”¦Û8—é»Í1
+G	java:S106)"+Replace this use of System.out by a logger.(ë”Òú8—é»Í1
+G	java:S106*"+Replace this use of System.out by a logger.(›”¦Û8—é»Í1
+G	java:S1066"+Replace this use of System.out by a logger.(›”¦Û8™é»Í1
+F	java:S1067"+Replace this use of System.out by a logger.(½ÒÔO8™é»Í1
+G	java:S1068"+Replace this use of System.out by a logger.(›”¦Û8™é»Í1
+L	java:S106:"+Replace this use of System.out by a logger.(Æ©ôııÿÿÿÿ8™é»Í1
+G	java:S106<"+Replace this use of System.out by a logger.(›”¦Û8™é»Í1
+L	java:S106="+Replace this use of System.out by a logger.(©ÎÔäúÿÿÿÿ8šé»Í1
+G	java:S106>"+Replace this use of System.out by a logger.(›”¦Û8šé»Í1
+G	java:S106@"+Replace this use of System.out by a logger.(›”¦Û8šé»Í1
+L	java:S106A"+Replace this use of System.out by a logger.(üùšÀÿÿÿÿÿ8šé»Í1
+G	java:S106B"+Replace this use of System.out by a logger.(›”¦Û8šé»Í1
+G	java:S106E"+Replace this use of System.out by a logger.(õšÌú8›é»Í1
+G	java:S106G"+Replace this use of System.out by a logger.(›”¦Û8›é»Í1
+G	java:S106H"+Replace this use of System.out by a logger.(¿èª¼8›é»Í1
+G	java:S106I"+Replace this use of System.out by a logger.(›”¦Û8›é»Í1
+p
+java:S1602L"SRemove useless curly braces around statement and then remove useless return keyword(®›‘8œé»Í1
+G	java:S106P"+Replace this use of System.out by a logger.(›”¦Û8œé»Í1
+F	java:S106Q"+Replace this use of System.out by a logger.(ºÃÁR8œé»Í1
+G	java:S106R"+Replace this use of System.out by a logger.(›”¦Û8œé»Í1
+L	java:S106T"+Replace this use of System.out by a logger.(á½Èÿÿÿÿÿ8îªì»Í1
+G	java:S106U"+Replace this use of System.out by a logger.(µ×¼í8Êí»Í1
+w
+java:S4276X"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(Î¢è8é»Í1
