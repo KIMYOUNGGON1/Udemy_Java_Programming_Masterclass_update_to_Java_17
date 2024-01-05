@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section_14/lambdaExpressionMiniChallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_14/miniLambdaChallengeLecture/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_14/lambdaExpressionChallenge/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -56,6 +55,7 @@
     "Application.section_13.nestedClasses.Main.executor": "Run",
     "Application.section_13.runMethos.Main.executor": "Run",
     "Application.section_13.theLocalAndAnonymousClassChallenge.Main.executor": "Run",
+    "Application.section_14.lambdaExpressionChallenge.Main.executor": "Run",
     "Application.section_14.lambdaExpressionMiniChallenge.Main.executor": "Run",
     "Application.section_14.lambdaIntro.Main.executor": "Run",
     "Application.section_14.miniLambdaChallengeLecture.Main.executor": "Run",
@@ -91,7 +91,7 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.section_14.miniLambdaChallengeLecture.Main">
+  <component name="RunManager" selected="Application.section_14.lambdaExpressionChallenge.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_14.lambdaExpressions.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="section_13.localClassChallengeLecture.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_13.localClassChallengeLecture.Main" />
+    <configuration name="section_14.lambdaExpressionChallenge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_14.lambdaExpressionChallenge.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_13.localClassChallengeLecture.*" />
+          <option name="PATTERN" value="section_14.lambdaExpressionChallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.section_14.lambdaExpressionChallenge.Main" />
         <item itemvalue="Application.section_14.miniLambdaChallengeLecture.Main" />
         <item itemvalue="Application.section_14.lambdaExpressionMiniChallenge.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.section_14.lambdaIntro.Main" />
-        <item itemvalue="Application.section_13.localClassChallengeLecture.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +282,7 @@
       <workItem from="1704239763940" duration="5895000" />
       <workItem from="1704271350807" duration="1035000" />
       <workItem from="1704325890472" duration="6600000" />
-      <workItem from="1704412263858" duration="6138000" />
+      <workItem from="1704412263858" duration="7923000" />
     </task>
     <servers />
   </component>

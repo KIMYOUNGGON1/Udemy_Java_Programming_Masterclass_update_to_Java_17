@@ -1,0 +1,19 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“¦€İúÿÿÿÿ8¸š¢¿Í1
+G	java:S106"+Replace this use of System.out by a logger.( ­Åó8Äš¢¿Í1
+L	java:S106"+Replace this use of System.out by a logger.(İÃ¤¦üÿÿÿÿ8Åš¢¿Í1
+L	java:S106"+Replace this use of System.out by a logger.(Ò×Õøÿÿÿÿ8Åš¢¿Í1
+L	java:S106"+Replace this use of System.out by a logger.(İÃ¤¦üÿÿÿÿ8Æš¢¿Í1
+L	java:S106"+Replace this use of System.out by a logger.(şˆ·Ùüÿÿÿÿ8Æš¢¿Í1
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Ş°úÜ8Çš¢¿Í1
+G	java:S106"+Replace this use of System.out by a logger.(Ş°úÜ8Çš¢¿Í1
+X	java:S125 "<This block of commented-out lines of code should be removed.(·ÌÄû8Èš¢¿Í1
+L	java:S106&"+Replace this use of System.out by a logger.(ÿƒÒ‡ÿÿÿÿÿ8Êš¢¿Í1
+]
+java:S1612'"@Replace this lambda with method reference 'System.out::println'.(—ªÃ8Êš¢¿Í1
+G	java:S106'"+Replace this use of System.out by a logger.(—ªÃ8Êš¢¿Í1
+H
+java:S1905+"&Remove this unnecessary cast to "int".(äôùñùÿÿÿÿ8Ëš¢¿Í1
+H
+java:S1905+"&Remove this unnecessary cast to "int".(äôùñùÿÿÿÿ8Ëš¢¿Í1

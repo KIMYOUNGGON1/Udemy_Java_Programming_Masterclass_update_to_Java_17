@@ -165,3 +165,5 @@ f
 6src/section_14/lambdaExpressionMiniChallenge/Main.java,d/0/d0fdb7e301948e3e57016595492f61c49868e224
 c
 3src/section_14/miniLambdaChallengeLecture/Main.java,a/a/aa5d671842a7d92ea92289510dffbba7ba9f9e4c
+b
+2src/section_14/lambdaExpressionChallenge/Main.java,4/0/40ec626086f69c923e4f67533ef3715f05775ffe
