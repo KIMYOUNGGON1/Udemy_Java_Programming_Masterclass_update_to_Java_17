@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="" />
+    <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/section_14/methodReferences/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_14/methodReferences/PlainOld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +90,7 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.section_14.lambdaExpressionChallenge.Main">
+  <component name="RunManager" selected="Application.section_14.methodReferences.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_14.lambdaExpressions.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -126,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="section_14.lambdaIntro.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_14.lambdaIntro.Main" />
+    <configuration name="section_14.methodReferences.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_14.methodReferences.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section_14.lambdaIntro.*" />
+          <option name="PATTERN" value="section_14.methodReferences.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.section_14.methodReferences.Main" />
         <item itemvalue="Application.section_14.lambdaExpressionChallenge.Main" />
         <item itemvalue="Application.section_14.miniLambdaChallengeLecture.Main" />
         <item itemvalue="Application.section_14.lambdaExpressionMiniChallenge.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.section_14.lambdaIntro.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -278,6 +282,7 @@
       <workItem from="1704271350807" duration="1035000" />
       <workItem from="1704325890472" duration="6600000" />
       <workItem from="1704412263858" duration="7923000" />
+      <workItem from="1705225368524" duration="1945000" />
     </task>
     <servers />
   </component>
