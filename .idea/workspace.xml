@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="" />
+    <list default="true" id="1bd81d68-2aad-400b-9d29-da16ed301baa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/section_14/methodReferenceChallenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,40 +39,40 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Store.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.section_11.interfaceChallengeLecture.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.section_11.theInterfaceChallenge.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.section_12.comparing.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.section_12.genericsExtra.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.section_12.lectureTheGenericClassChallenge.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.section_13.localClassChallengeLecture.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.section_13.nestedClasses.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.section_13.runMethos.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.section_13.theLocalAndAnonymousClassChallenge.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.section_14.lambdaExpressionChallenge.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.section_14.lambdaExpressionMiniChallenge.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.section_14.lambdaIntro.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.section_14.miniLambdaChallengeLecture.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/uniess/YG_Personal/Udemy_Java_Programming_Masterclass_update_to_Java_17&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Store.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.section_11.interfaceChallengeLecture.Main.executor": "Run",
+    "Application.section_11.theInterfaceChallenge.Test.executor": "Run",
+    "Application.section_12.comparing.Main.executor": "Run",
+    "Application.section_12.genericsExtra.Main.executor": "Run",
+    "Application.section_12.lectureTheGenericClassChallenge.Main.executor": "Run",
+    "Application.section_13.localClassChallengeLecture.Main.executor": "Run",
+    "Application.section_13.nestedClasses.Main.executor": "Run",
+    "Application.section_13.runMethos.Main.executor": "Run",
+    "Application.section_13.theLocalAndAnonymousClassChallenge.Main.executor": "Run",
+    "Application.section_14.lambdaExpressionChallenge.Main.executor": "Run",
+    "Application.section_14.lambdaExpressionMiniChallenge.Main.executor": "Run",
+    "Application.section_14.lambdaIntro.Main.executor": "Run",
+    "Application.section_14.miniLambdaChallengeLecture.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/gim-yeong-gon/study/Udemy_Java_Programming_Masterclass_update_to_Java_17",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editor.preferences.gutterIcons",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="section_10.playListChallenge" />
@@ -86,20 +89,7 @@
       <recent name="section_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.section_14.methodReferences.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_14.lambdaExpressions.Main" />
-      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section_14.lambdaExpressions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.section_14.methodReferenceChallenge.Main">
     <configuration name="section_14.lambdaExpressionChallenge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_14.lambdaExpressionChallenge.Main" />
       <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
@@ -119,6 +109,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="section_14.lambdaExpressionMiniChallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="section_14.methodReferenceChallenge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_14.methodReferenceChallenge.Main" />
+      <module name="Udemy_Java_Programming_Masterclass_update_to_Java_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section_14.methodReferenceChallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.section_14.methodReferenceChallenge.Main" />
         <item itemvalue="Application.section_14.methodReferences.Main" />
         <item itemvalue="Application.section_14.lambdaExpressionChallenge.Main" />
         <item itemvalue="Application.section_14.miniLambdaChallengeLecture.Main" />
         <item itemvalue="Application.section_14.lambdaExpressionMiniChallenge.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -281,6 +284,7 @@
       <workItem from="1705225368524" duration="2356000" />
       <workItem from="1705227730383" duration="1813000" />
       <workItem from="1705400812400" duration="1904000" />
+      <workItem from="1706362730721" duration="1829000" />
     </task>
     <servers />
   </component>
